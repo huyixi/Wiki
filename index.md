@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Wiki"
-  text: "My Wiki"
-  tagline: My great project tagline
+  name: "huyixi's Wiki"
+  # text: "Record everything I know here"
+  tagline: Record everything I know here.
   actions:
     - theme: brand
       text: Markdown Examples

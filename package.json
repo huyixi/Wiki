@@ -11,7 +11,7 @@
     "docs:preview": "vitepress preview"
   },
   "keywords": [],
-  "author": "",
+  "author": "huyixi",
   "license": "ISC",
   "devDependencies": {
     "vitepress": "1.0.0-rc.32"
