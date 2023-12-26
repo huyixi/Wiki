@@ -11,7 +11,6 @@ export default defineConfig({
   themeConfig: {
     siteTitle: "huyixi's wiki",
     url: "https://huyixi.wiki",
-    baseUrl: "/",
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'Home', link: '/' },
@@ -20,23 +19,40 @@ export default defineConfig({
 
     // sidebar: [
     //   {
-    //     text: 'Examples',
+    //     text: 'level1',
     //     items: [
-    //       { text: 'Markdown Examples', link: '/markdown-examples' },
-    //       { text: 'Runtime API Examples', link: '/api-examples' },
-    //       { text: 't1', link: '/t1' },
+    //       {
+    //         text: 'level2',
+    //         collapsed: true,
+    //         items: [
+    //           {
+    //             text: 'level3',
+    //             link: '/level1/level2/level3'
+    //           }
+    //         ]
+    //       }, {
+    //         text: 'level2',
+    //         items: [
+    //           {
+    //             text: 'level3',
+    //             link: '/level1/level2/level3'
+    //           }
+    //         ]
+    //       }
     //     ]
+    //   },
+    //   {
+
     //   }
+ 
     // ],
-    rewrites: {
-      '/': './docs/intro.md'
-    },
 
     sidebar: generateSidebar({
       documentRootPath: 'docs',
-      collapsed: true,
+      // collapsed: true,
       collapseDepth: 2,
       hyphenToSpace: true,
+      underscoreToSpace: true,
       includeEmptyFolder: true,
     }),
 
@@ -56,7 +72,7 @@ export default defineConfig({
     // }
 
     editLink: {
-      pattern: 'https://github.com/huyixi/wiki/edit/main/docs/',
+      pattern: 'https://github.com/huyixi/wiki/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     }
   },
