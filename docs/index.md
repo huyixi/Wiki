@@ -17,4 +17,4 @@ hero:
 
 如果你在浏览本站的过程中发现了一些错误或者你有更好的信息源推荐，欢迎在 [GitHub Issues](https://github.com/huyixi/wiki/issues) 中提出，或者给我发邮件 [hi@huyixi.com](mailto:hihuyixi.com)
 
-本站灵感来源于 Everything I Know - Nikita](https://wiki.nikiv.dev)，[Owen](https://www.owenyoung.com)。
+本站灵感来源于 [Everything I Know - Nikita](https://wiki.nikiv.dev)，[Owen](https://www.owenyoung.com)。
