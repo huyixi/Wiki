@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { generateSidebar } from 'vitepress-sidebar'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -15,15 +16,20 @@ export default defineConfig({
     //   { text: 'Examples', link: '/markdown-examples' }
     // ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    // sidebar: [
+    //   {
+    //     text: 'Examples',
+    //     items: [
+    //       { text: 'Markdown Examples', link: '/markdown-examples' },
+    //       { text: 'Runtime API Examples', link: '/api-examples' },
+    //       { text: 't1', link: '/t1' },
+    //     ]
+    //   }
+    // ],
+
+    sidebar: generateSidebar({
+      documentRootPath: 'docs',
+    }),
 
     socialLinks: [
       { icon: 'github', link: 'https://huyixi.com' },
@@ -44,5 +50,6 @@ export default defineConfig({
       pattern: 'https://github.com/huyixi/wiki/edit/main/docs/',
       text: 'Edit this page on GitHub'
     }
-  }
+  },
+  srcDir: './docs'
 })
