@@ -10,6 +10,8 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     siteTitle: "huyixi's wiki",
+    url: "https://huyixi.wiki",
+    baseUrl: "/",
     // https://vitepress.dev/reference/default-theme-config
     // nav: [
     //   { text: 'Home', link: '/' },
@@ -26,9 +28,16 @@ export default defineConfig({
     //     ]
     //   }
     // ],
+    rewrites: {
+      '/': './docs/intro.md'
+    },
 
     sidebar: generateSidebar({
       documentRootPath: 'docs',
+      collapsed: true,
+      collapseDepth: 2,
+      hyphenToSpace: true,
+      includeEmptyFolder: true,
     }),
 
     socialLinks: [
