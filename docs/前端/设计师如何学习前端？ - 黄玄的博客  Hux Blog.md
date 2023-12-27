@@ -124,7 +124,7 @@ HTML 方面，要开始注重语义化、可访问性与结构的合理，你要
 
 **你需要熟悉并且习惯使用 Node**，包括了解 npm、使用 Grunt/Gulp/Browserify/Webpack 优化你的工作流、对你的代码进行打包、混淆、压缩、发布，你还可以使用 Express/Koa 配合 MongoDB/Redis 涉足到后端领域，或者尝试用 Node 做后端渲染优化你的首屏体验
 
-**你需要了解各种 HTML 5 的新 API**，包括 <video>/<audio>，包括 Canvas，webGL、File API、App Cache、localStorage、IndexedDB、Drag & Drop、更高级的 DOM API、Fetch API 等等
+**你需要了解各种 HTML 5 的新 API**，包括 `<video>`/`<audio>`，包括 Canvas，webGL、File API、App Cache、localStorage、IndexedDB、Drag & Drop、更高级的 DOM API、Fetch API 等等
 
 **你需要学习 JavaScript 的单线程与异步编程方法**，因为它们非常非常常用、包括 setTimeout/setInterval，回调与回调地狱、事件与event loop、还有 Promise 甚至 Async/Await
 
