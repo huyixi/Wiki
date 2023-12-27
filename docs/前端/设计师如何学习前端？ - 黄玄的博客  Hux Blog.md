@@ -53,13 +53,9 @@ p { color: red;}
 在了解一些基础的 JavaScript 概念（变量、函数、基本类型）后，我们可以直接去学习 jQuery，你不用知道它具体是什么（它是一个 JavaScript 代码库），你只要知道它可以显著地降低你编写交互的难度就好了：
 
 ```
-<div><table><tbody><tr><td><pre>1
-2
-3
-</pre></td><td><pre><span>$</span><span>(</span><span>'</span><span>.className</span><span>'</span><span>).</span><span>click</span><span>(</span><span>function</span><span>(){</span>
-  <span>alert</span><span>(</span><span>"</span><span>Hello jQuery</span><span>"</span><span>)</span>
-<span>})</span>
-</pre></td></tr></tbody></table></div>
+$('.className').click(function(){
+  alert("Hello jQuery")
+})
 ```
 
 通过 jQuery，我们可以继续使用在 CSS 中学到的“选择器”
