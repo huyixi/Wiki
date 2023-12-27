@@ -1,2 +1,4 @@
 # 收集一些优秀的个人博客
 - [Owen](https://www.owenyoung.com)：沉浸式翻译作者
+## 个人博客聚集站点
+- [积薪](https://firewood.news)
