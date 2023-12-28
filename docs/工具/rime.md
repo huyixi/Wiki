@@ -4,6 +4,8 @@
 
 #### Mac 删除系统自带输入法
 
+配置第一项
+
 通过系统的输入法设置面板删除输入法最终还会剩下一个 ABC 的英文输入法。因为我使用的是 Rime 输入法，系统配置了额外的一个输入法会导致切换不方便，所以需要删除该输入法。
 
 1. 关闭 Mac 系统的 `SIP(System Integrity Protection)` 
@@ -100,7 +102,7 @@ patch：
 
 #### 右 Shift 上屏
 
-`default.yaml` 文件
+`default.custom.yaml` 文件
 
 ```yaml
 ascii_composer:
