@@ -15,6 +15,7 @@ export default defineConfig({
 
     nav: [
       { text: 'huyixi.com', link: 'https://huyixi.com' },
+      { text: 'huyixi.org', link: 'https://huyixi.org' },
     ],
 
     sidebar: generateSidebar({
