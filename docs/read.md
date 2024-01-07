@@ -1,1 +1,0 @@
-- [O'RLY Cover Generator](https://orly.nanmu.me)：O'RLY 电子书封面生成
