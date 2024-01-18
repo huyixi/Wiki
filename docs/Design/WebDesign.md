@@ -20,7 +20,21 @@
 
 - [kuldar.](https://kuldar.com/)
 
+- [Stammy](https://paulstamatiou.com)：一个设计师的个人博客。第一次看到的时候是被让我耳目一新的侧边栏设计所吸引，至今（2024年1月5日）我的个人网站还模仿这种设计
+
+  ![image-20240118103616101](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118103616101.png)
+
+  ![image-20240118103627587](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118103627587.png)
+
+  ![image-20240118103722901](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118103722901.png)
+
+  ![image-20240118103747198](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118103747198.png)
+
 - https://rauno.me：模仿 Mac Dock 栏
+
+- [BETA TAKAKI](https://betatakaki.com)：设计师的个人网站
+
+  ![SCR-20240105-iiiq](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/SCR-20240105-iiiq.jpeg)
 
 - https://newpresence.com
 
@@ -66,9 +80,11 @@
   
 - https://cincodesign.com
 
-- ![image-20240113205046211](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240113205046211.png)
+![image-20240113205046211](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240113205046211.png)
 
-  
+- [Knowingless](https://knowingless.com/)：又是一个极简博客
+
+  ![image-20240118102606415](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118102606415.png)
 
 
 ## 有趣的网站

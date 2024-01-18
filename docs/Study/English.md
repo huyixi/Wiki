@@ -10,3 +10,9 @@
 - Step 4: 将你日常生活中的某一事物改为英文。
 - Step 5: 记录下来，确保你每天都在进行练习。
 - Step 6: 用英文回顾你的一天。
+
+# 英语资源
+
+[OGDEN's BASIC ENGLISH](http://ogden.basic-english.org/)：英语交流只需要 850 个单词。作者发现牛津英语词典里面的 25000 个单词的书，只要用 850 个单词就可以表单，通过这种方式让英语的入门变得更加简单。
+
+- [YouGlish](https://youglish.com/)：一个学习英语发音的[网站](https://youglish.com/pronounce/english/english/us)，发音资源从 TED 演讲视频中选取。

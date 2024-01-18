@@ -1,1 +1,0 @@
-- [Paul Graham](https://www.paulgraham.com/): The Writer of 《Hacker & Painter》
