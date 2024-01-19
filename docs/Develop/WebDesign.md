@@ -89,6 +89,21 @@
 - [Henry Heffcrnan]([henryheffernan.com](https://t.co/nZ13C3qhCf))
 
   ![image-20240118145545812](/Users/huyixi/Library/Application%20Support/typora-user-images/image-20240118145545812.png)
+  
+- [onur](https://onur.dev)
+
+  又是一个漂亮的极简博客。风格很像 netnewswire。如果再加入键盘操作就更好了。
+  
+  ![image-20240119104853643](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240119104853643.png)
+  
+  几个类似模仿的网站：
+  
+  - https://brianlovin.com
+  - https://www.reajason.com
+  
+  技术栈：
+  
+  - [shadcn/ui](https://ui.shadcn.com)
 
 
 ## 有趣的网站

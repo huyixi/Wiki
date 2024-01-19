@@ -15,6 +15,10 @@
 
 - [ ] 《年会不能停》：TW93、Justin Yan、科技乱炖推荐
 
+## 其他
+
+- [ ] [中文博客的 2023 年终总结](https://github.com/saveweb/review-2023)
+
 ## 资源
 
 ### 图书资源

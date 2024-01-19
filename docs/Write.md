@@ -7,3 +7,4 @@
 Today I Learned
 My Projects
 - [https://bytedance.larkoffice.com/file/UD3hboSdaomdO2xvdfscZcWHnFc](https://bytedance.larkoffice.com/file/UD3hboSdaomdO2xvdfscZcWHnFc)
+- [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
