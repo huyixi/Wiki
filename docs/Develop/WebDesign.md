@@ -86,7 +86,7 @@
 
   ![image-20240118102606415](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118102606415.png)
   
-- [Henry Heffcrnan]([henryheffernan.com](https://t.co/nZ13C3qhCf))
+- [Henry Heffcrnan](https://t.co/nZ13C3qhCf)
 
   ![image-20240118145545812](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118145545812.png)
   
