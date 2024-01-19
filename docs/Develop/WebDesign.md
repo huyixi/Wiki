@@ -88,7 +88,7 @@
   
 - [Henry Heffcrnan]([henryheffernan.com](https://t.co/nZ13C3qhCf))
 
-  ![image-20240118145545812](/Users/huyixi/Library/Application%20Support/typora-user-images/image-20240118145545812.png)
+  ![image-20240118145545812](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118145545812.png)
   
 - [onur](https://onur.dev)
 
