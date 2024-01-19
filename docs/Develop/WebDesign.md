@@ -1,4 +1,4 @@
-# 灵感
+# 网页设计
 
 ## 灵感聚合网站
 
@@ -85,6 +85,10 @@
 - [Knowingless](https://knowingless.com/)：又是一个极简博客
 
   ![image-20240118102606415](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118102606415.png)
+  
+- [Henry Heffcrnan]([henryheffernan.com](https://t.co/nZ13C3qhCf))
+
+  ![image-20240118145545812](/Users/huyixi/Library/Application%20Support/typora-user-images/image-20240118145545812.png)
 
 
 ## 有趣的网站
@@ -100,3 +104,6 @@
 模仿电视机的效果，还使用伪元素创造电视的阴影效果。
 
 - [Stripe](https://www.stripe.press/poor-charlies-almanack/)：穷查理宝典电子书
+
+## Icon
+

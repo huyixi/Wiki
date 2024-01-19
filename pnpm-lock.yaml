@@ -4,10 +4,18 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+dependencies:
+  markdown-it-task-lists:
+    specifier: ^2.1.1
+    version: 2.1.1
+
 devDependencies:
+  '@types/node':
+    specifier: ^20.11.5
+    version: 20.11.5
   vitepress:
     specifier: 1.0.0-rc.32
-    version: 1.0.0-rc.32(@algolia/client-search@4.22.0)(search-insights@2.13.0)
+    version: 1.0.0-rc.32(@algolia/client-search@4.22.0)(@types/node@20.11.5)(search-insights@2.13.0)
   vitepress-sidebar:
     specifier: ^1.18.5
     version: 1.18.5
@@ -560,6 +568,12 @@ packages:
     resolution: {integrity: sha512-6L6VymKTzYSrEf4Nev4Xa1LCHKrlTlYCBMTlQKFuddo1CvQcE52I0mwfOJayueUC7MJuXOeHTcIU683lzd0cUA==}
     dev: true
 
+  /@types/node@20.11.5:
+    resolution: {integrity: sha512-g557vgQjUUfN76MZAN/dt1z3dzcUsimuysco0KeluHgrPdJXkP/XdAURgyO2W9fZWHRtRBiVKzKn8vyOAwlG+w==}
+    dependencies:
+      undici-types: 5.26.5
+    dev: true
+
   /@types/unist@3.0.2:
     resolution: {integrity: sha512-dqId9J8K/vGi5Zr7oo212BGii5m3q5Hxlkwy3WpYuKPklmBEvsbMYYyLxAQpSffdLl/gdW0XUpKWFvYmyoWCoQ==}
     dev: true
@@ -579,7 +593,7 @@ packages:
       vite: ^4.0.0 || ^5.0.0
       vue: ^3.2.25
     dependencies:
-      vite: 5.0.10
+      vite: 5.0.10(@types/node@20.11.5)
       vue: 3.3.13
     dev: true
 
@@ -993,6 +1007,10 @@ packages:
     resolution: {integrity: sha512-1I+1qpDt4idfgLQG+BNWmrqku+7/2bi5nLf4YwF8y8zXvmfiTBY3PV3ZibfrjBueCByROpuBjLLFCajqkgYoLQ==}
     dev: true
 
+  /markdown-it-task-lists@2.1.1:
+    resolution: {integrity: sha512-TxFAc76Jnhb2OUu+n3yz9RMu4CwGfaT788br6HhEDlvWfdeJcLUsxk1Hgw2yJio0OXsxv7pyIPmvECY7bMbluA==}
+    dev: false
+
   /mdast-util-to-hast@13.0.2:
     resolution: {integrity: sha512-U5I+500EOOw9e3ZrclN3Is3fRpw8c19SMyNZlZ2IS+7vLsNzb2Om11VpIVOR+/0137GhZsFEF6YiKD5+0Hr2Og==}
     dependencies:
@@ -1158,6 +1176,10 @@ packages:
     resolution: {integrity: sha512-kRj8B+YHZCc9kQYdWfJB2/oUl9rA99qbowYYBtr4ui4mZyAQ2JpvVBd/6U2YloATfqBhBTSMhTpgBHtU0Mf3Rg==}
     dev: true
 
+  /undici-types@5.26.5:
+    resolution: {integrity: sha512-JlCMO+ehdEIKqlFxk6IfVoAUVmgz7cU7zD/h9XZ0qzeosSHmUJVOzSQvvYSYWXkFXC+IfLKSIffhv0sVZup6pA==}
+    dev: true
+
   /unist-util-is@6.0.0:
     resolution: {integrity: sha512-2qCTHimwdxLfz+YzdGfkqNlH0tLi9xjTnHddPmJwtIG9MGsdbutfTc4P+haPD7l7Cjxf/WZj+we5qfVPvvxfYw==}
     dependencies:
@@ -1213,7 +1235,7 @@ packages:
       vfile-message: 4.0.2
     dev: true
 
-  /vite@5.0.10:
+  /vite@5.0.10(@types/node@20.11.5):
     resolution: {integrity: sha512-2P8J7WWgmc355HUMlFrwofacvr98DAjoE52BfdbwQtyLH06XKwaL/FMnmKM2crF0iX4MpmMKoDlNCB1ok7zHCw==}
     engines: {node: ^18.0.0 || >=20.0.0}
     hasBin: true
@@ -1241,6 +1263,7 @@ packages:
       terser:
         optional: true
     dependencies:
+      '@types/node': 20.11.5
       esbuild: 0.19.10
       postcss: 8.4.32
       rollup: 4.9.1
@@ -1255,7 +1278,7 @@ packages:
       gray-matter: 4.0.3
     dev: true
 
-  /vitepress@1.0.0-rc.32(@algolia/client-search@4.22.0)(search-insights@2.13.0):
+  /vitepress@1.0.0-rc.32(@algolia/client-search@4.22.0)(@types/node@20.11.5)(search-insights@2.13.0):
     resolution: {integrity: sha512-yf00Skn5BGP+YOQvTbSrB5s9qEb/cV+i+wM5rw+mlaxcIYtK+ORvyBEYZLvKogs7OO70TppJtixb4ofeo5K7HA==}
     hasBin: true
     peerDependencies:
@@ -1280,7 +1303,7 @@ packages:
       mrmime: 1.0.1
       shikiji: 0.9.2
       shikiji-transformers: 0.9.2
-      vite: 5.0.10
+      vite: 5.0.10(@types/node@20.11.5)
       vue: 3.3.13
     transitivePeerDependencies:
       - '@algolia/client-search'
