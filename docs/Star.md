@@ -15,6 +15,11 @@
 
   ![image-20240118102649135](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118102649135.png)
   
-- ## 个人博客聚集站点
+## 个人博客聚集站点
 
   - [积薪](https://firewood.news)
+
+## 库
+
+- [gpt-crawler](https://github.com/BuilderIO/gpt-crawler/tree/main)：gpt 资料爬虫。可以模仿爬取与配置的思路，修改 Web2Book。
+
