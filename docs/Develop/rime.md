@@ -1,4 +1,4 @@
-## 我的配置
+## 我的 rime 配置
 
 **[rime-config](https://github.com/huyixi/rime-config)**
 
@@ -116,5 +116,4 @@ ascii_composer:
 
 #### 教程
 
-- 
 - [Rime 输入法安装和使用指北](https://blog.mikelyou.com/2020/07/31/rime-input/#:~:text=2.1%20%E5%80%99%E9%80%89%E8%AF%8D%E6%95%B0%E9%87%8F,%E6%95%B0%E5%AD%971~9%E5%92%8C0%E3%80%82)
