@@ -1,8 +1,8 @@
 # 计算机技巧
 
-## 如何批量取消 B 站关注和 Youtube 关注
+## 如何批量取消 B 站关注和 YouTube 关注
 
-原文链接：[如何批量取消你的 B 站关注和 Youtube 关注](https://www.ixiqin.com/2024/01/04/how-to-cancel-your-bilibili-and-youtube-followers-in-bulk/)
+原文链接：[如何批量取消你的 B 站关注和 YouTube 关注](https://www.ixiqin.com/2024/01/04/how-to-cancel-your-bilibili-and-youtube-followers-in-bulk/)
 
 ```javascript
 $(".be-dropdown-item:contains('取消关注')").each(function(index, element) {

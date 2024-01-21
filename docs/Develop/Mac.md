@@ -14,7 +14,7 @@ filetypes=(.as .ada .prw .affect .al .ansible .g4 .any .htaccess .cls .apib .apl
 
 for filetype in "${filetypes[@]}"
 do
-   duti -s com.microsoft.VSCode $filetype all
+   duti -s com.microsoft.VS Code $filetype all
    if [ $? -ne 0 ]; then
       echo "Failed to set default program for $filetype"
    fi
@@ -26,7 +26,7 @@ done
 如果遇到
 
 ```bash
-failed to set com.microsoft.VSCode as handler for public.html (error -54)
+failed to set com.microsoft.VS Code as handler for public.html (error -54)
 Failed to set default program for .html
 ```
 
