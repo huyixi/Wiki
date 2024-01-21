@@ -4,6 +4,10 @@
 
 ## 简历
 
+### 简历生成
+
+- [RX](https://rxresu.me/)：TW93 推荐
+
 ### 避雷
 
 - Cali Castle
