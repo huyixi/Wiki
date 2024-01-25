@@ -4,7 +4,7 @@
 
 - YC 的 Startup School
 
-- [YC Library]()：YC Library 是另一个我会经常去找资料的地方，这里面涵盖了 YC 建立以来发表的大部分内容，可以作为一个 wiki 来查询。
+- YC Library：YC Library 是另一个我会经常去找资料的地方，这里面涵盖了 YC 建立以来发表的大部分内容，可以作为一个 wiki 来查询。
 
 [YC 创始人 Paul Graham 的博客](https://paulgraham.com/articles.html)
 
