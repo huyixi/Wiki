@@ -1,5 +1,13 @@
 # 经验
 
+[创业应该学习什么？](https://x.com/Tisoga/status/1734737408703517041?s=20)：devv.ai 的构建者分享。
+
+- YC 的 Startup School
+
+- [YC Library]()：YC Library 是另一个我会经常去找资料的地方，这里面涵盖了 YC 建立以来发表的大部分内容，可以作为一个 wiki 来查询。
+
+[YC 创始人 Paul Graham 的博客](https://paulgraham.com/articles.html)
+
 ## 一个五年独立创造者踩过的那些坑
 
 [一个独立创造者的五年](https://mp.weixin.qq.com/s/x6PLSIMn_1qcKnXWPT-J-Q)

@@ -1,4 +1,17 @@
+### npm run dev 并使用 Chrome 打开
+
+```
+/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome http://localhost:4321
+```
+
+示例：
+
+```
+"dev": "react-scripts start & /Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome http://localhost:3000"
+```
+
 ### iTerm 的快捷键
+
 ctrl + a/e 快速切换到当前正在输入的文本的头部／尾部
 ctrl + u 清空当前输入
 cmd + T 打开一个新的 iterm2 Tab
