@@ -1,3 +1,5 @@
+# Star
+
 ## 人物
 
 - [Paul Graham](https://www.paulgraham.com/): The Writer of 《Hacker & Painter》
@@ -15,6 +17,7 @@
 
   ![image-20240118102649135](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240118102649135.png)
   
+- [歪脑](https://www.wainao.me)
 ## 个人博客聚集站点
 
   - [积薪](https://firewood.news)
@@ -23,3 +26,25 @@
 
 - [gpt-crawler](https://github.com/BuilderIO/gpt-crawler/tree/main)：gpt 资料爬虫。可以模仿爬取与配置的思路，修改 Web2Book。
 
+## 书籍
+
+- [图书阅读相关资源 - Owen](https://www.owenyoung.com/books-guide/#qi-ta-ren-de-shu-ji-tui-jian-zi-yuan)：Owen 收集的图书资源
+- [Hacker News Readings](https://hacker-recommended-books.vercel.app/)：HackerNews 上讨论最多的图书，内容更偏向编程开发
+- [枫影夜读 – Justin 的读书 2023](https://justinyan.me/post/5845)
+- [枫影夜读 – Justin 的读书 2022](https://justinyan.me/post/5361)
+- [枫影夜读 – Justin 的读书 2021](https://justinyan.me/post/4824)
+
+## 影视
+
+- [Owen 推荐的人生必看清单](https://wiki.owenyoung.com/tv-shows/#workflows)
+
+## 收集箱
+
+用于收集目前还不便分类的资源，待后续整理。
+
+- [谷歌浏览器 2023 年精选扩展集锦](https://chromewebstore.google.com/collection/2023_favorites)
+- [Today's top trending papers in Computer Science](https://trendingpapers.com/papers?o=pagerank_growth&pd=Since%20beginning&cc=Cited%20and%20uncited%20papers&c=All%20categories)：这个 Today's top trending papers in Computer Science 很适合喜欢计算机科学的小伙伴关注，有大量新鲜的值得一看的计算机论文，做成了类似于 GitHub Trending 的形式，很适合沉下心来研究，近期毕竟火的是 AI 相关的内容。 TW93 推荐
+
+## 影视
+
+[盘盘-阿里云盘](https://t.me/Q66Share)：TG 频道阿里云盘电影资源分享

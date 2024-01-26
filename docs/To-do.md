@@ -18,14 +18,3 @@
 ## 其他
 
 - [ ] [中文博客的 2023 年终总结](https://github.com/saveweb/review-2023)
-
-## 资源
-
-### 图书资源
-
-- [图书阅读相关资源 - Owen](https://www.owenyoung.com/books-guide/#qi-ta-ren-de-shu-ji-tui-jian-zi-yuan)：Owen 收集的图书资源
-- [Hacker News Readings](https://hacker-recommended-books.vercel.app/)：HackerNews 上讨论最多的图书，内容更偏向编程开发
-
-### 影视资源
-
-- [Owen 推荐的人生必看清单](https://wiki.owenyoung.com/tv-shows/#workflows)
