@@ -1,4 +1,4 @@
-### npm run dev 并使用 Chrome 打开
+### npm run dev 并使用 Chrome 打开，并在打开前关闭该 port
 
 ```
 /Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome http://localhost:4321
@@ -7,7 +7,7 @@
 示例：
 
 ```
-"dev": "react-scripts start & /Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome http://localhost:3000"
+astro dev & lsof -ti :4321 | xargs kill -9 & /Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome http://localhost:4321
 ```
 
 ### iTerm 的快捷键
