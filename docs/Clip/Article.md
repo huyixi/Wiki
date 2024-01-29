@@ -17,3 +17,17 @@
 - [结婚前必须要问的13个问题 - 纽约时报中文网](https://cn.nytimes.com/style/20160325/t25marriage/)
 
 - [什么才是规矩的博客](https://darmau.design/article/what-is-a-neat-blog)
+
+- [Todo list, To-do list, or To do list?](https://grammarhow.com/todo-list-to-do-list-or-to-do-list/)
+
+  **“To-do list” is the only correct variation.**
+
+- 《深度工作》
+
+  - 更少的工作时间：如果 每个人都只有更少的时间完成任务，他们就会更加尊重时间，如果拥有的时间变少，你就会更聪明的利用时间
+
+  - 如果你的邮件不够有税福利，并且不能充分降低回复邮件所需的经历，那么你就得不到回复
+
+  - 工作其实比休闲时光更容易带来享受。因为工作类似于心理活动，有其内在目标、反馈、规则的挑战。休闲时光则组织松散需要很大的努力，才能创造出值得享受的事情。
+
+  - 如果你关注的是夜间的一杯马提尼，你的生活将变得更美好。
