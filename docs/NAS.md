@@ -9,8 +9,8 @@
 ## ssh 连接群晖
 
 如果在同一个局域网下在命令行中输入以下命令
-`${{root/username}}@${{nas 设备地址}}`
-nas 设备地址在 控制面板 - 网络界面 - 局域网 DHCH 下的 ip 地址
+`root/username@nas 设备地址`
+nas 设备地址在控制面板-网络界面-局域网 DHCH 下的 ip 地址
 参考：
 
 - [如何通过 SSH 使用 root 权限登录 DSM/SRM？](https://kb.synology.cn/zh-cn/DSM/tutorial/How_to_login_to_DSM_with_root_permission_via_SSH_Telnet)
