@@ -3,7 +3,12 @@
 ## 人物
 
 - [Paul Graham](https://www.paulgraham.com/): The Writer of 《Hacker & Painter》
+
 - [Owen](https://www.owenyoung.com)：沉浸式翻译作者
+
+- [小土刀](https://wdxtub.com/)
+
+  知乎上一篇回答：[为什么小土刀能读那么多书写那么多文章？](https://www.zhihu.com/question/47788269)
 
 ## 文章
 
@@ -37,6 +42,17 @@
 ## 音乐
 
 [RePlay](https://replay.cafe)：Justin 的 Newsletter，推荐一些高质量音乐。
+
+#### 音乐榜单
+
+- [billboard](https://www.billboard.com)
+  - [YEAR-END CHARTS Hot 100 Songs](https://www.billboard.com/charts/year-end/hot-100-songs/)
+  - [Decade-End Charts](https://www.billboard.com/charts/decade-end/)
+- [RollingStone](https://www.rollingstone.com)
+  - [The 500 Greatest Albums of All Time](https://www.rollingstone.com/music/music-lists/best-albums-of-all-time-1062063/arcade-fire-%EF%BB%BFfuneral-1062733/)
+  
+  - [The 100 Best Albums of 2023](https://www.rollingstone.com/music/music-lists/best-albums-2023-1234879538/)
+  - [The 100 Best Songs of 2023](https://www.rollingstone.com/music/music-lists/best-songs-of-2023-1234879541/foo-fighters-under-you-1234897411/)
 
 ## 收集箱
 
