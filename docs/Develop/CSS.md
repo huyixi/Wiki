@@ -13,7 +13,9 @@
 
 ## CSS Animation
 
-[Scroll-driven Animations](https://scroll-driven-animations.style)：学习滚动动画。[Sixian 推荐](https://x.com/noworkforsixian/status/1750875936806097285?s=20)
+- [Scroll-driven Animations](https://scroll-driven-animations.style)：学习滚动动画。[Sixian 推荐](https://x.com/noworkforsixian/status/1750875936806097285?s=20)
+
+- [CSS动画简介 - 阮一峰](https://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
 
 ## 字体
 
