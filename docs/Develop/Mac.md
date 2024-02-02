@@ -1,6 +1,9 @@
 # Mac
+
 ## Software
+
 ### Disk Clean
+
 - [OmniDiskSweeper](https://www.omnigroup.com/more)：查看哪个文件占据空间较大
 
 ## 修改 Mac 上所有代码文件的默认打开方式为 VS Code
@@ -44,7 +47,7 @@ Failed to set default program for .html
 
 - [Launch Service API failure with specific UTI](https://developer.apple.com/forums/thread/50029)
 
-- https://stackoverflow.com/questions/26241689/lssetdefaultrolehandlerforcontenttype-in-yosemite
+- <https://stackoverflow.com/questions/26241689/lssetdefaultrolehandlerforcontenttype-in-yosemite>
 
 ## Mac 安装非 App Store 上下载的应用程序提示`"XXX" is damaged and can't be opened. You should move it to the Trash`
 
