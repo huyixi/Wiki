@@ -8,6 +8,10 @@ Figma：自制线框图。无论你是要绘制流程图还是逻辑图，无可
 
   在 windows 系统中，对技术写作最友好的录屏工具，无可争议，一定是 [screenToGif](https://www.screentogif.com)，这是一个开源软件
 
-## 总结
+## 未分类
 
 - [cmd-wrapped](https://github.com/YiNNx/cmd-wrapped)：命令行总结
+
+## Cheat Sheet
+
+- [Vim Cheat Sheet](https://vim.rtorr.com/)

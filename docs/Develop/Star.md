@@ -1,3 +1,5 @@
+# Star
+
 ## Trend
 
 - [bestofjs](https://bestofjs.org)：A place to find the best open source projects related to the web platform: JS, HTML, CSS, but also TypeScript, Node.js, Deno, Bun...

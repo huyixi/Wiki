@@ -1,14 +1,16 @@
+# Rime
+
 ## 我的 rime 配置
 
 **[rime-config](https://github.com/huyixi/rime-config)**
 
-#### Mac 删除系统自带输入法
+### Mac 删除系统自带输入法
 
 配置第一项
 
 通过系统的输入法设置面板删除输入法最终还会剩下一个 ABC 的英文输入法。因为我使用的是 Rime 输入法，系统配置了额外的一个输入法会导致切换不方便，所以需要删除该输入法。
 
-1. 关闭 Mac 系统的 `SIP(System Integrity Protection)` 
+1. 关闭 Mac 系统的 `SIP(System Integrity Protection)`
 
    关于 `SIP` [官方介绍链接](https://developer.apple.com/documentation/security/disabling_and_enabling_system_integrity_protection)
 
@@ -58,10 +60,8 @@
 
 ##### 使用小鹤双拼
 
-官方配置库：https://github.com/rime/rime-double-pinyin。其中收录了自然码双拼、智能ABC双拼、小鹤双拼、MSPY双拼、拼音加加双拼。
+官方配置库：<https://github.com/rime/rime-double-pinyin。其中收录了自然码双拼、智能ABC双拼、小鹤双拼、MSPY双拼、拼音加加双拼。>
 小鹤双拼配置：将官方配置库中的 double_pinyin_flypy.schema.yaml 下载到用户文件夹。设置好后，右键点击任务栏小狼毫图标，选「输入法设定」，只勾选一个「小鹤双拼」。默认方案为繁体，可使用按键F5(部分版本是F4)，将配置默认为简体。
-
-
 
 [雾淞拼音](https://dvel.me/posts/rime-ice/#%e5%9f%ba%e6%9c%ac%e5%a5%97%e8%b7%af)
 
@@ -81,7 +81,7 @@
 
 style/color_scheme: 你想使用的皮肤名
 
-我喜欢的皮肤：https://github.com/NavisLab/rime-pifu
+我喜欢的皮肤：<https://github.com/NavisLab/rime-pifu>
 
 粘贴进去即可
 

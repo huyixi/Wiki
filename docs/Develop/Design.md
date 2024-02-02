@@ -1,5 +1,31 @@
+# 网页设计
+
+## Icon
+
+- [ICONS](https://icons8.com/icons)
+- [IconScout](https://iconscout.com)
+
+## 灵感聚合网站
+
+- [siteinspire](https://www.siteinspire.com)
+- [httpster](https://httpster.net)
+- [Godly](https://godly.website)
+- [Pafolios](https://pafolios.com/)：设计师作品集网站收集
+- [Landing Love](https://www.landing.love/)
+- [scrnshts](https://scrnshts.club)：App Store 上架软件
+- [1000-inspiring-websites](https://supercreative.design/1000-inspiring-websites)
+
+## 效果
+
+- <https://uiverse.io/elements>
+
+## SVG
+
+[Not a Number](https://www.nan.fyi/svg-paths)：SVG 路径动画详解
+
 ## 文章
 
+- [5000字干货！完整掌握Web端设计语言库-布局](https://mp.weixin.qq.com/s?__biz=MzI5Nzc3MzkyNw==&mid=2247492500&idx=1&sn=32f24ada46b06be4dcd39b5b5b49ea60&chksm=ecad5d9cdbdad48a85da171e7fe85914846b89c8c559e644d206c94216726516fcccb6f1f2f3#rd)：系统介绍了 Web 端网页布局
 - [拼多多快手设计差？来看看下沉设计4大要点](https://www.woshipm.com/pd/4274935.html)
   - 品牌的关注度与忠诚度对于下沉用户来说并没有起到很大作用，他们的核心关注点还是在众多的产品中挑选最实惠的来使用。基于此，我们做产品设计时会更多考虑如何在有效的信息展示中，给用户优先传达这个产品性价比很高——你花很少的钱就能获得很多东西。
   - 小程序前期的开发对于下沉产品的意义重大，因为下沉用户不像一二线用户培养了去应用市集下载app的惯性思维，很多都懒得下载app；所以很多特定下沉产品会考虑在前期布局小程序，例如趣头条/拼多多等，可以在特定场景下快速激活下沉用户。

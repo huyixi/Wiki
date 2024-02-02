@@ -1,4 +1,7 @@
 # Mac
+## Software
+### Disk Clean
+- [OmniDiskSweeper](https://www.omnigroup.com/more)：查看哪个文件占据空间较大
 
 ## 修改 Mac 上所有代码文件的默认打开方式为 VS Code
 
