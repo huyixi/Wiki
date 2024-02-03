@@ -34,6 +34,7 @@
 - [枫影夜读 – Justin 的读书 2023](https://justinyan.me/post/5845)
 - [枫影夜读 – Justin 的读书 2022](https://justinyan.me/post/5361)
 - [枫影夜读 – Justin 的读书 2021](https://justinyan.me/post/4824)
+- [Justin 的豆瓣读书主页](https://book.douban.com/people/3113941/)
 
 ## 影视
 
