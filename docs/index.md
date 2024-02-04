@@ -20,3 +20,12 @@ hero:
 如果你在浏览本站的过程中发现了一些错误或者你有更好的信息源推荐，欢迎在 [GitHub Issues](https://github.com/huyixi/wiki/issues) 中提出，或者给我发邮件 [hi@huyixi.com](mailto:hihuyixi.com)
 
 本站灵感来源于 [Everything I Know - Nikita](https://wiki.nikiv.dev)，[Owen](https://www.owenyoung.com)。
+
+:::warning 注意
+本 Wiki 中包含一些有关药品或健康相关信息，然而，这些信息仅供参考，并不能替代专业医疗建议。作者并非医疗专业人士，因此不具备提供关于药物使用的专业意见的资格。
+
+读者在采取任何与健康有关的行动之前，应该咨询医生或合格的医疗专业人士的意见。任何基于本 Wiki 中的信息而采取的行动，读者需自行承担风险，并且作者概不负责。
+
+在任何健康相关的问题上，专业医疗建议是至关重要的。请勿根据本 Wiki 中的信息进行自我诊断或自我治疗。谨慎对待所有涉及健康的决策，并寻求专业医疗意见以获取准确的信息。
+:::
+
