@@ -48,6 +48,9 @@
 
 多项研究表明，阿托品眼药水对近视的预防是有效的，但因为副作用的原因，并不适用于此用途。[12]。
 
+[Mydriacyl Drops - Uses, Side Effects, and More](https://www.webmd.com/drugs/2/drug-9342/mydriacyl-ophthalmic-eye/details)
+[Cycloplegia in eye drops: How it works, uses and side effects](https://www.allaboutvision.com/eye-care/eye-drops/cycloplegic-and-mydriatic-eye-drops/)
+
 ## 散光
 
 散光（英语：astigmatism）又称乱视，是一种由于眼睛屈光力旋转不对称造成的屈光不正，患者的眼睛不能将光均匀地聚焦在视网膜上，而导致在**任何距离**都会出现视力扭曲、失真、模糊。其他症状还有视觉疲劳、夜间行车困难。散光通常发生在出生时，并在之后发生变化或发展。如果散光发生在儿童发育早期，却没有接受治疗，可能会导致弱视。
