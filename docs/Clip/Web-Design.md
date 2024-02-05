@@ -120,7 +120,4 @@ https://bakstadconstruction.com/?ref=httpster.net
 
 https://an-other.com
 
-![image-20240204115559432](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240204115559432.png)
-
-![image-20240204115457658](/Users/huyixi/Library/Application%20Support/typora-user-images/image-20240204115457658.png)
-https://mstq.io/
+![image-20240204115559432](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240204115559432.png)https://mstq.io/
