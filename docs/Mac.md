@@ -2,11 +2,17 @@
 
 ## Software
 
-### Disk Clean
+### Clean
 
-- [OmniDiskSweeper](https://www.omnigroup.com/more)：查看哪个文件占据空间较大
+- [OmniDiskSweeper](https://www.omnigroup.com/more)：查看文件占据空间
+- [mcleanup](https://github.com/mac-cleanup/mac-cleanup-sh)：命令行清理工具
 
-## 修改 Mac 上所有代码文件的默认打开方式为 VS Code
+### 截图
+Shottr
+
+## Environment
+Mac 开发环境配置
+### 修改 Mac 上所有代码文件的默认打开方式为 VS Code
 
 Mac 上很多代码文件的打开方式是 XCode。Xcode 很重很不方便，修改为常用的代码编辑器 VS Code 能更为合适。当然你也可以修改的下面的代码将它改为你想要打开文件的应用程序。
 

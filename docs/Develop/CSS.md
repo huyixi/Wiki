@@ -1,3 +1,25 @@
+# CSS
+
+## CSS Selector
+
+### Selector Naming
+
+- 小写命名，中间使用连字符，专有名词可以用拼音。例如：`cs-logo-youku{}`
+- 不使用 ID 选择器
+- 借用 HTML 命名
+- 更简短精悍
+  - list -> li
+  - link -> a
+  - box -> x
+
+### Best Practices
+
+- 避免使用嵌套选择器
+
+#### 参考：
+
+《CSS 选择器世界》- 张鑫旭
+
 ## 框架
 
 ### Tailwind CSS
