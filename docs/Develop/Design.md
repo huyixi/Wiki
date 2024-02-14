@@ -4,6 +4,7 @@
 
 - [ICONS](https://icons8.com/icons)
 - [IconScout](https://iconscout.com)
+- [FAVICON GENERATOR / GENERATE FROM TEXT](https://favicon.io/favicon-generator/)
 
 ## 灵感聚合网站
 
