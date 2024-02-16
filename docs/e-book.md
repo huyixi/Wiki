@@ -1,5 +1,7 @@
 # 关于我使用电子书的一切
 
+## 电子书资源
+- [Library Genesis](https://libgen.is)
 ## 制作电子书
 
 - [mdbook](https://github.com/rust-lang/mdBook)
