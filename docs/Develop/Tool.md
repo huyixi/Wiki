@@ -16,9 +16,9 @@ Figma：自制线框图。无论你是要绘制流程图还是逻辑图，无可
 ## 未分类
 
 - [cmd-wrapped](https://github.com/YiNNx/cmd-wrapped)：命令行总结
+- [Chrome Theme](https://chrometheme.studio): Chrome Theme generator
 
 ## Cheat Sheet
 
 - [Vim Cheat Sheet](https://vim.rtorr.com/)
 
-- [Chrome Theme](https://chrometheme.studio): Chrome Theme generator
