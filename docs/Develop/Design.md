@@ -1,4 +1,6 @@
 # 网页设计
+## Resources
+- [A curated list of mobile design resources](https://learnmobile.design)
 
 ## Icon
 
@@ -15,6 +17,7 @@
 - [Landing Love](https://www.landing.love/)
 - [scrnshts](https://scrnshts.club)：App Store 上架软件
 - [1000-inspiring-websites](https://supercreative.design/1000-inspiring-websites)
+- [Wall of portfolios](https://www.wallofportfolios.in): Designer Portfolios
 
 ## 效果
 
@@ -40,3 +43,4 @@
 ### 小宇宙设计
 - [最近爆火的小宇宙APP，有哪些值得关注的产品细节？](https://www.uisdc.com/microcosm-app)
 - [全平台播客订阅及收听指南](https://sspai.com/post/57960)：介绍了基本上所有流行的播客应用。
+- [为播客而生｜播客APP小宇宙产品分析报告](https://www.woshipm.com/evaluating/5735772.html)

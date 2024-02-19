@@ -9,6 +9,9 @@
 
 - [o’rly 封面在线生成](https://orly.nanmu.me/)
 
+## Tools
+- [Qireader](https://www.qireader.com):RSS to Kindle
+- [Newsletter to Kindle](https://app.newslettertokindle.com/profile)
 ## 参考
 
 - [把博客变成一本可离线下载的电子书](https://www.owenyoung.com/blog/blog-to-book)
