@@ -16,7 +16,7 @@ export default defineConfig({
   },
 
   themeConfig: {
-    siteTitle: "huyixi's wiki",
+    siteTitle: "huyixi.wiki",
     url: "https://huyixi.wiki",
     // https://vitepress.dev/reference/default-theme-config
 
