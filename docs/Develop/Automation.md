@@ -1,7 +1,7 @@
 ## Mac Cron
 
 ### Cron format
-
+```
 * * * * *
 | | | | |
 | | | | +-- Day of the week (0 - 6) (Sunday to Saturday)
@@ -9,7 +9,7 @@
 | | +------ Day of the month (1 - 31)
 | +-------- Hour (0 - 23)
 +---------- Minute (0 - 59)
-
+```
 
 ### 打开 Cron 配置文件
 
