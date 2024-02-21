@@ -41,23 +41,15 @@ Justin 推荐：非常轻松好读的一部艺术史，贡布里希的文笔流�
 Justin 推荐：《直视骄阳》(Staring at the Sun)是作者2008年出版的非虚构类作品，讲述了他自己与来访者关于"死亡焦虑"主题的案例与分析。今年初读完这本书，我受到不少启发，也给我的个人OKR写下一句"创造我所热爱的生活"，不仅要勇敢面对我的命运中我无法控制的部分，更要好好把握自己能控制的部分。生活不会一直如我所愿，所以更要掌握具有主动性的部分，创造我所热爱的生活。
 单从一句「也给我的个人OKR写下一句"创造我所热爱的生活"」,这本书就一定要看一下。
 - 《深入理解计算机系统》：前言：如果你研究和领会了这本书里的概念，你将开始成为极少数的“牛 人"，这些“牛人“知道事情是如何运作的，也知道 当 事情出现故障时如 何修复。你写的程序将能够更好地利用操作系统和系统软件提供的功能， 对各种操作条件和运行时参数都能正确操作，运行起来更快，并能避免出 现使程序容易受到网络攻击的缺陷。同时，你也要做好更深入探究的准备， 研究像编译器、计算机体系结构、操作系统、嵌入式系统、网络互联和网络 安全这样的高级题目。
-## 影视
-
-
-## 书籍
-
 - [x] 黑客与画家：重读，第一遍读得时候不是太粗略了。
 - [ ] 被偷走的注意力：Owen 推荐
 - [ ] 深度工作：Owen 推荐
 - [ ] 人格心理学：我大学四年基本上就没学到什么东西，唯一有用的，影响终身的，就是一本名叫《人格心理学》的书，这是我第一次通过一些专业的理论知识来剖析自己的行为。
 
-## 音乐
-
-- [ ] commmons schola：坂本龙一监制，收录了世界各地的精选音乐。
 
 ## 影视
 
-- [ ] 《年会不能停》：TW93、Justin Yan、科技乱炖推荐
+- [x] 《年会不能停》：TW93、Justin Yan、科技乱炖推荐
 
 ## 其他
 
@@ -67,9 +59,10 @@ Justin 推荐：《直视骄阳》(Staring at the Sun)是作者2008年出版的�
 
 ## 音乐
 
-[RePlay](https://replay.cafe)：Justin 的 Newsletter，推荐一些高质量音乐。
+- [RePlay](https://replay.cafe)：Justin 的 Newsletter，推荐一些高质量音乐。
+- commmons schola：坂本龙一监制，收录了世界各地的精选音乐。
 
-#### 音乐榜单
+### 音乐榜单
 
 - [billboard](https://www.billboard.com)
   - [YEAR-END CHARTS Hot 100 Songs](https://www.billboard.com/charts/year-end/hot-100-songs/)
@@ -79,6 +72,10 @@ Justin 推荐：《直视骄阳》(Staring at the Sun)是作者2008年出版的�
   
   - [The 100 Best Albums of 2023](https://www.rollingstone.com/music/music-lists/best-albums-2023-1234879538/)
   - [The 100 Best Songs of 2023](https://www.rollingstone.com/music/music-lists/best-songs-of-2023-1234879541/foo-fighters-under-you-1234897411/)
+
+## Podcast
+- 枫言枫语：站在科技与人文十字路口的一档播客。
+- 谐星聊天会：脱口秀搞笑类播客。
 
 ## 收集箱
 
