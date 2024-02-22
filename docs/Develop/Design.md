@@ -4,9 +4,9 @@
 
 ## Icon
 
-- [ICONS](https://icons8.com/icons)
-- [IconScout](https://iconscout.com)
+- [ICONS](https://icons8.com/icons)：导出自定义尺寸需要付费，只提供 24, 48, 96 三个免费尺寸
 - [FAVICON GENERATOR / GENERATE FROM TEXT](https://favicon.io/favicon-generator/)
+- [IconScout](https://iconscout.com)：全付费
 
 ## 灵感聚合网站
 
