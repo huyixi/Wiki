@@ -9,6 +9,7 @@
 - [Stanford - CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/2023)：斯坦福 iOS Apps 开发教程
 - [Swift](https://www.swift.org)
 ## CS193p
+- [Stanford - CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/2023)：斯坦福 iOS Apps 开发教程
 ### Assignment
 #### Readng Assignent 1: Intro to Swift
 - [A Swift Tour](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/guidedtour/)
