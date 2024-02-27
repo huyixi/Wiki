@@ -1,4 +1,6 @@
 # Star
+## Computer
+- [【读薄/厚 CSAPP】](https://wdxtub.com/csapp/thin-csapp-0/2016/04/16/)：小土刀的读厚与读薄《深入理解计算机系统》
 
 ## Trend
 
