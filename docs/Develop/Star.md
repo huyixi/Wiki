@@ -1,6 +1,13 @@
 # Star
+## Course
+- (MITx Online)[https://mitxonline.mit.edu/]
+- (Course - HARVARD UNIVERSITY)[https://pll.harvard.edu/catalog]
+- (Stanford Online)[https://online.stanford.edu]
+
 ## Computer
 - [【读薄/厚 CSAPP】](https://wdxtub.com/csapp/thin-csapp-0/2016/04/16/)：小土刀的读厚与读薄《深入理解计算机系统》
+- [CS50: Introduction to Computer Science - HARVARD UNIVERSITY](https://pll.harvard.edu/course/cs50-introduction-computer-science)：An introduction to the intellectual enterprises of computer science and the art of programming.
+- [CS50 SQL ](https://www.youtube.com/watch?v=wdzA1Z8tKek&list=PLhQjrBD2T382v1MBjNOhPu9SiJ1fsD4C0)
 
 ## Trend
 
