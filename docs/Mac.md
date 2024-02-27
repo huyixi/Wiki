@@ -1,4 +1,9 @@
 # Mac
+## 装机指南
+### 开发环境配置
+#### Rust
+`brew install rustup-init`
+`sudo rustup-init`
 
 ## Software
 - [Xclient](https://xclient.info)
