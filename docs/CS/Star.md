@@ -4,6 +4,7 @@
 - [Course - HARVARD UNIVERSITY](https://pll.harvard.edu/catalog)
 - [Stanford Online](https://online.stanford.edu)
 - [CS 自学指南](https://csdiy.wiki)：北大信科 CS 自学指南，包含多个国外顶尖大学课程推荐。
+- [HackWay技术学习路线](https://hackway.org)：为大学生、程序员自学系统的计算机专业知识、编程语言提供循序渐进的学习路线、资源以及交流社区
 
 ## Computer
 - [【读薄/厚 CSAPP】](https://wdxtub.com/csapp/thin-csapp-0/2016/04/16/)：小土刀的读厚与读薄《深入理解计算机系统》

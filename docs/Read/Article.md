@@ -31,3 +31,5 @@
   - 工作其实比休闲时光更容易带来享受。因为工作类似于心理活动，有其内在目标、反馈、规则的挑战。休闲时光则组织松散需要很大的努力，才能创造出值得享受的事情。
 
   - 如果你关注的是夜间的一杯马提尼，你的生活将变得更美好。
+
+- [Why time seems to pass faster as we age](https://invertedpassion.com/why-time-seems-to-pass-faster-as-we-age/)：日复一日相似的生活导致我们觉得时间过的越来越快。
