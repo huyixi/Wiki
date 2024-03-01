@@ -1,8 +1,9 @@
-# 面试
+# Job
 
 - [阿里、力扣、政采云的 15 位专家分享前端面试与招聘视角](https://tridiamond.tech/post/d71e3dea9caf5fdc0a76ab95e2b29804)
 - [【编程起跑线】14 技术面试感悟](https://wdxtub.com/psl/psl-14/2016/02/14/)
-
+## Recruitment
+- [谁在招人？- 阮一峰](https://github.com/ruanyf/weekly/issues/4075)
 ## 简历
 
 ### 简历生成
