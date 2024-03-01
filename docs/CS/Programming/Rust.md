@@ -16,7 +16,14 @@
 ## Practice
 - [rustlings](https://github.com/rust-lang/rustlings/): 🦀 Small exercises to get you used to reading and writing Rust code!
 - [Learning Rust by Writing a Command Line App in 15 Minutes](https://rust-cli.github.io/book/tutorial/index.html)
+- [Exercism Rust Track](https://exercism.org/tracks/rust/exercises)：A platform with a structured curriculum and code challenges to practice your Rust skills.
+## Star
+- [Learning Resources for Rust](https://docs.google.com/document/d/1oXejq1aN-dSJC5Z_QsjeQLDFKftAOroaJHYFHfEQr88/edit?usp=sharing)
 ## Tools
 - [Playground](https://play.rust-lang.org/)
+## Web Framework
+- [Actix](https://actix.rs)
+  - [Actix Doc](https://docs.rs/actix-web/4.0.1/actix_web/index.html)
+  - [Actix-web’s examples collection](https://github.com/actix/examples)
 ## Syntax
 - 当我们想拥有一个列表，里面都是相同类型的数据时，动态数组将会非常有用。

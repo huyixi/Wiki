@@ -8,7 +8,7 @@
 
 适用于有 markdown 源文件来生成电子书
 
-### 工具栈
+### Tools of make ebook
 
 - [mdbook](https://github.com/rust-lang/mdBook)
 - [mdbook-epub](https://github.com/Michael-F-Bryan/mdbook-epub)
@@ -58,7 +58,7 @@
 搜索：```!\[\]\(([^)]+)\)```
 替换成：```<!-- ![]() -->```
 
-## 工具
+## Tools
 
 - [Qireader](https://www.qireader.com):RSS to Kindle
 - [Newsletter to Kindle](https://app.newslettertokindle.com/profile)
