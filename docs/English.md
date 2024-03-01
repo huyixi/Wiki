@@ -1,4 +1,4 @@
-# 英语学习
+# English
 
 - [How to THINK in English | No More Translating in Your Head!](https://www.youtube.com/watch?v=SJOnhWiJArM)
 
@@ -11,7 +11,7 @@
 - Step 5: 记录下来，确保你每天都在进行练习。
 - Step 6: 用英文回顾你的一天。
 
-# 英语资源
+## Resources
 
 [OGDEN's BASIC ENGLISH](http://ogden.basic-english.org/)：英语交流只需要 850 个单词。作者发现牛津英语词典里面的 25000 个单词的书，只要用 850 个单词就可以表单，通过这种方式让英语的入门变得更加简单。
 
