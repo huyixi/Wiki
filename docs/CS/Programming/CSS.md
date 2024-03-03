@@ -1,5 +1,9 @@
 # CSS
 
+## Resources
+
+- [CODEPEN](https://codepen.io)
+
 ## CSS Selector
 
 ### Selector Naming
