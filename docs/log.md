@@ -25,6 +25,11 @@
 - 《宇宙超度指南》
 - 《冷场》
 - 《候场》
+- 《Zero To Production In Rust》
+- 《繁花》
+- 《天真的人类学家》
+- 《蒂姆库克传》
+- 《The Highly Sensitive Person》：Justin Recommend.
 
 ## 音乐
 
