@@ -31,6 +31,7 @@
 - 《蒂姆库克传》
 - 《The Highly Sensitive Person》：Justin Recommend.
 - 《大模型应用开发极简入门：基于 GPT-4和 ChatGPT》：宝玉推荐。
+- 《Superlinear Returns》：《大模型应用开发极简入门》提到。
 
 ## 音乐
 

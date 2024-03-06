@@ -15,6 +15,7 @@
   - [CS110L-2020spr](https://github.com/fung-hwang/CS110L-2020spr): Assignments of Stanford CS110L-2020spr: Safety in Systems Programming
 ## Practice
 - [rustlings](https://github.com/rust-lang/rustlings/): 🦀 Small exercises to get you used to reading and writing Rust code!
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Learning Rust by Writing a Command Line App in 15 Minutes](https://rust-cli.github.io/book/tutorial/index.html)
 - [Exercism Rust Track](https://exercism.org/tracks/rust/exercises)：A platform with a structured curriculum and code challenges to practice your Rust skills.
 ## Star

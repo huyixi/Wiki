@@ -1,4 +1,5 @@
 # Star
+
 ## News
 
 - [Buzzing](https://www.buzzing.cc)：Owen 的作品，集成了多个新闻来源，包含 Hacker News、经济学人、Reddit 等等。
@@ -67,4 +68,4 @@ e Patchbay - 穷人版 ifttt
 - [谷歌浏览器 2023 年精选扩展集锦](https://chromewebstore.google.com/collection/2023_favorites)
 - [中文博客的 2023 年终总结](https://github.com/saveweb/review-2023)
 - [Owen 推荐的人生必看清单](https://wiki.owenyoung.com/tv-shows/#workflows)
-
+- [time.is](https://time.is)：查看全球时间
