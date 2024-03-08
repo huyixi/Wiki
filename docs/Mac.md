@@ -1,6 +1,11 @@
 # Mac
+
 ## 装机指南
+
+- [sxyazi: 我的 macOS 配置](https://sxyz.blog/macos-setup/)
+
 ### 开发环境配置
+
 #### Rust
 `brew install rustup-init`
 `sudo rustup-init`
