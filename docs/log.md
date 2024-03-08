@@ -32,6 +32,9 @@
 - 《The Highly Sensitive Person》：Justin Recommend.
 - 《大模型应用开发极简入门：基于 GPT-4和 ChatGPT》：宝玉推荐。
 - 《Superlinear Returns》：《大模型应用开发极简入门》提到。
+- 《狼书（卷1）：更了不起的 Node.js》：2024-03-08 购买
+- 《狼书（卷2）：Node.js Web 应用开发》
+- 《李光耀观天下》
 
 ## 音乐
 
