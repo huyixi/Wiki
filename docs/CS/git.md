@@ -1,3 +1,5 @@
+# Git
+
 ## Type of commit
 
 ```bash
@@ -9,3 +11,7 @@ test:     Everything related to testing
 docs:     Everything related to documentation
 chore:    Regular code maintenance
 ```
+
+## Git Tools
+- GitButler：Mac 上的 Git 可视化工具，Tw93 推荐。
+- Sourcetree：Git 的 Windows 可视化工具
