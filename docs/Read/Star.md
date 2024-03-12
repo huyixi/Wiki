@@ -16,6 +16,7 @@
 - [俞军2021年读书清单58本](https://zhuanlan.zhihu.com/p/452506737)
 - [俞军2020年读书清单60本](https://zhuanlan.zhihu.com/p/342969562)
 - [Randy 的读书乐园](https://read.lutaonan.com/)
+- [刘未鹏(mindhacks.cn):『只读经典』思考的技术与艺术（原“学会思考”）](https://www.douban.com/doulist/127649/)
 
 ## Star
 
