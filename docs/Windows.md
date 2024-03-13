@@ -4,16 +4,16 @@
 
 ### 系统镜像下载网站
 
-- itellyou：<https://msdn.itellyou.cn>
-- itellyou新网站（主要下载系统镜像）：<https://next.itellyou.cn/>
+- [itellyou](https://msdn.itellyou.cn)
+- [itellyou新网站（主要下载系统镜像）](https://next.itellyou.cn/)
 
 ### 制作系统启动盘
 
 需要提前准备一个 16G 以上的 U 盘作为启动盘
 
-- rufus（Windows）官网地址：<https://rufus.ie/en/>
+- [rufus（Windows）官网地址](https://rufus.ie/en/)
 
-- UNetbootin（多平台）：<https://unetbootin.github.io/>
+- [UNetbootin（多平台）](https://unetbootin.github.io/)
 
 ### 进入 BIOS 界面将 U 盘设置为启动盘
 
@@ -248,7 +248,7 @@ USUB4-4FAD6-UTD9Q-2D8H4-42DZA
 
 #### Win11下“应用程序无法正确启动(0xc000007b)”解决方法
 
-[链接](https://www.howtogeek.com/874113/how-to-fix-the-0xc000007b-error-on-windows/)
+- [链接](https://www.howtogeek.com/874113/how-to-fix-the-0xc000007b-error-on-windows/)
 
 ## Windows系统设置
 
@@ -277,7 +277,7 @@ USUB4-4FAD6-UTD9Q-2D8H4-42DZA
 
 ### 修改桌面（存储桌面文件的文件夹）、下载、文档等文件夹的存储位置
 
-1. 该文件夹一般存储在 C://Users/{{ username }} 下
+1. 该文件夹一般存储在 C://Users/username 下
 2. 修改存储位置：右键 -> 属性 -> 位置 -> 修改文件存储位置 -> 移动
 
 ### 添加开机启动项
@@ -315,7 +315,7 @@ USUB4-4FAD6-UTD9Q-2D8H4-42DZA
    </unattend>
    ```
 
-   ⚠️ 如果你的操作系统是 32 位则将  `processorArchitecture="amd64"` 更改为 `processorArchitecture="x86`.如果是64位则无需更改
+   ⚠️ 如果你的操作系统是 32 位则将 `processorArchitecture="amd64"` 更改为 `processorArchitecture="x86`.如果是64位则无需更改
 
    ⚠️修改 `<ProfilesDirectory>D:\Users</ProfilesDirectory>` 中 `D:\Users` 的值为你想要保存文件夹的位置
 
@@ -331,7 +331,7 @@ USUB4-4FAD6-UTD9Q-2D8H4-42DZA
 
 4. 注销当前账户:
 
-   开始菜单 - {{你的用户名}} -注销
+   开始菜单 - 用户名 -注销
 
 5. 登陆 Administrator 管理员账户
 
@@ -339,7 +339,7 @@ USUB4-4FAD6-UTD9Q-2D8H4-42DZA
 
    使用管理员模式打开 CMD - 输入 `net user 你的账户名 /active:no`,将 `你的账户名` 修改为你系统所使用的账户名,有几个账户名执行几次改命令
 
-   执行完命令后从 `Windows 设置`   - `账户` - `家庭和其他用户` 中查看是否完全停用
+   执行完命令后从 `Windows 设置` - `账户` - `家庭和其他用户` 中查看是否完全停用
 
 7. CMD 切换到 sysprep 文件夹
 
@@ -363,7 +363,7 @@ USUB4-4FAD6-UTD9Q-2D8H4-42DZA
 
 11. 激活在第 6 步停用的账户
 
-    `net user {{你的账户名}} /active:yes` 与之前相同,有多少个账户就执行多少次命令
+    `net user 你的账户名 /active:yes` 与之前相同,有多少个账户就执行多少次命令
 
 12. 注销临时账户,登陆你自己的管理员账户(不是 Administrator )
 
@@ -375,23 +375,17 @@ USUB4-4FAD6-UTD9Q-2D8H4-42DZA
 
 1.打开注册表编辑器（键盘Win+R中输入regedit并回车）
 
-2.定位到：**HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\**
+2.定位到：\*\*HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace\*\*
 
 3.右键删除**DelegateFolders**以上的注册表项，刷新资源管理器后就生效了。
 
-下载：{088e3905-0323-4b02-9826-5d99428e115f}
-
-图片：{24ad3ad4-a569-4530-98e1-ab02f9417aa8}
-
-音乐：{3dfdf296-dbec-4fb4-81d1-6a3438bcf4de}
-
-桌面：{B4BFCC3A-DB2C-424C-B029-7FE99A87C641}
-
-文档：{d3162b92-9365-467a-956b-92703aca08af}
-
-视频：{f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a}
-
-3D 对象：{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}
+- 下载：088e3905-0323-4b02-9826-5d99428e115f
+- 图片：24ad3ad4-a569-4530-98e1-ab02f9417aa8
+- 音乐：3dfdf296-dbec-4fb4-81d1-6a3438bcf4de
+- 桌面：B4BFCC3A-DB2C-424C-B029-7FE99A87C641
+- 文档：d3162b92-9365-467a-956b-92703aca08af
+- 视频：f86fa3ab-70d2-4fc7-9c99-fcbf05467f3a
+- 3D 对象：0DB7E03F-FC29-4DC6-9020-FF41B59E513A
 
 ### 隐藏桌面上的回收站、我的电脑等图标
 
@@ -438,7 +432,7 @@ USUB4-4FAD6-UTD9Q-2D8H4-42DZA
 
 进行中文输入推荐使用双拼输入法，熟练使用后可以极大提高输入效率
 
-双拼输入法有多种方案，根据需要进行选择，我自己使用过 **自然码双拼** 与  **小鹤双拼** 。熟练使用后两者的输入速度没有很大差距。目前使用小鹤双拼的原因是 iOS 上自带的输入法不支持自然码双拼。
+双拼输入法有多种方案，根据需要进行选择，我自己使用过 **自然码双拼** 与 **小鹤双拼** 。熟练使用后两者的输入速度没有很大差距。目前使用小鹤双拼的原因是 iOS 上自带的输入法不支持自然码双拼。
 
 注意选择输入方案的时候尽量不要选择使用标点符号当作输入按键的方案（如搜狗双拼等），否则在手机上显示键盘与平时有差异。
 
@@ -477,16 +471,16 @@ Rime 的各种配置，均是由 .yaml 文件所定义。 yaml 是一种标记�
 用家下載或定製的文件：
 
 - `<输入方案代号>.schema.yaml` - 用户下载或自定义的*输入方案*。
-- `<韵书代号>.dict.yaml` - 用户下载或自定义的 *词典*。
-- `<词典名称代号>.txt` - 文本格式的词典，如预设词典表、用戶 *自定义词组*。
-- `<配置代号>.custom.yaml` - 应用于配置文件 `<配置代号>.schema.yaml` 或 `<配置代号>.yaml` 的 *补丁*。
+- `<韵书代号>.dict.yaml` - 用户下载或自定义的 **词典**。
+- `<词典名称代号>.txt` - 文本格式的词典，如预设词典表、用戶、定义词组。
+- `<配置代号>.custom.yaml` - 应用于配置文件 `<配置代号>.schema.yaml` 或 `<配置代号>.yaml` 的**补丁**。
 - `opencc/*` - [OpenCC](https://github.com/BYVoid/OpenCC) 字形转换配置及字典文件。
 
 输入法程序记录的使用习惯等信息
 
-- `<输入法语言代号>.userdb/` - 输入法程序为保存用户的输入习惯而创建的 *用户词典*。
+- `<输入法语言代号>.userdb/` - 输入法程序为保存用户的输入习惯而创建的 **用户词典**。
 - `installation.yaml` - 安装信息。输入法程序在首次运行及升级后写入安装、升级时间、程序版本等。
-- `user.yaml` - 用户状态信息。包括在 *方案选单* 选取的输入方案、输入法选项状态如「中／西」「简／繁」等。
+- `user.yaml` - 用户状态信息。包括在 **方案选单** 选取的输入方案、输入法选项状态如「中／西」「简／繁」等。
 
 部署时生成的文件：
 
@@ -616,7 +610,7 @@ MacOS 系统在虚拟机上使用并不稳定，不推荐在虚拟机上安装�
 
    - 打开 unlocker 文件架，找到 win-install.cmd 文件，右键以管理员身份运行。
 
-   - 打开 安装虚拟机的文件夹，找到后缀为  `.vmx` 的 文件。例如： `macOS 10.14.vmx`
+   - 打开 安装虚拟机的文件夹，找到后缀为 `.vmx` 的 文件。例如： `macOS 10.14.vmx`
 
    - 在该文件的最后一行添加以下代码，并保存文件
 
@@ -774,10 +768,10 @@ pandownload（下载大文件可能会碰到下载一半无法下载的问题）
 如何设置谷歌的国别重定向
 
 Google 搜索通常会根据“发起搜索的 IP 地址”来进行“国别重定向”。
- 比如：内地的网友不翻墙直接进行 Google 搜索，会被重定向到 Google 的香港站点；
- 比如：通过翻墙到美国访问 Google 搜索，可能会被重定美国的 Google
- 　要想禁止国别重定向，可以点击如下网址，然后 Google 会在你本地保存一个 cookie 设置，下次再访问，就不会被重定向了。
- [http://www.google.com/ncr](https://www.google.com/ncr)（No Country Redirect）
+比如：内地的网友不翻墙直接进行 Google 搜索，会被重定向到 Google 的香港站点；
+比如：通过翻墙到美国访问 Google 搜索，可能会被重定美国的 Google
+　要想禁止国别重定向，可以点击如下网址，然后 Google 会在你本地保存一个 cookie 设置，下次再访问，就不会被重定向了。
+[http://www.google.com/ncr](https://www.google.com/ncr)（No Country Redirect）
 
 ### 网盘
 
@@ -847,7 +841,7 @@ Linux > MacOS > Windows
 > 互联网技术人员一直都知道 HTTP 是不安全的，给用户带来很多风险。由于 HTTP 流量是未加密的，任何通过 HTTP 发送的数据都可以被任何有权访问网络的人读取和修改。正如斯诺登 NSA 监控文件所揭示的那样，政府机构也可以在不通知用户或网站管理员的情况下收集和搜索 HTTP 流量。鉴于这些风险，EFF 认为每个网站都应该尽快在所有页面上[支持 HTTPS 。](https://www.eff.org/encrypt-the-web)
 
 - **Chrome**
-  设置>隐私和安全>安全>*滚动到底部*>*切换*“始终使用安全连接”
+  设置>隐私和安全>安全>滚动到底部>切换>“始终使用安全连接”
 
 - **火狐**
   设置>隐私和安全>*滚动到底*部>*启用*仅HTTPS模式
@@ -856,12 +850,12 @@ Linux > MacOS > Windows
 
 “TOR”传说中的暗网，是老牌的翻墙工具，并且是“开源项目”。它的主要用途是“隐匿身份”，翻墙只是顺带的附加用途。
 
-官方网站是 <https://www.torproject.org/>
+[官方网站](https://www.torproject.org/)
 （必须翻墙才能访问,注意进入的网址。直接搜索得到的是蜜罐网站,无法翻墙）
 
 #### 如何判断自己的浏览器是否在走 Tor 的线路？
 
-　　Tor 官网提供了一个测试界面，网址是 <https://check.torproject.org/> 猛击该超链接，会打开一个界面。
+Tor 官网提供了一个测试界面，[网址](https://check.torproject.org/)猛击该超链接，会打开一个界面。
 　　如果你的浏览器已经在使用 Tor 的线路，会出现一个【绿色】洋葱头，以及一行绿色的洋文提示。
 　　如果你的浏览器没有走 Tor 的线路，会出现一个【带红色打叉】的洋葱头，同时还有一行红色的洋文警告。
 
@@ -883,7 +877,6 @@ Win10 使用技巧论坛：www.tenforums.com
 
 StackOverFlow旗下的电脑使用论坛：www.superuser.com
 
-庭说的装机指南：<https://tingtalk.me/windows/>
+[庭说的装机指南](https://tingtalk.me/windows/)
 
 Last updated on January 10,2023
-
