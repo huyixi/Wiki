@@ -50,7 +50,9 @@
 - 《Elon Musk》: Vuejs 纪录片，尤雨溪书架
 - 《Code Complete 2》：《暗时间》推荐
 - 《Vue.js 设计与实现》：
-
+- DON'T MAKE ME THINK: 2024-03-14 21:45.
+- The User Experience Team of One: A Research and Design Survival Guide: The Author of "Don't Make Me Think" recommend. Recommaned: For **Only** UX person, the Only people of UCD. 
+- Influence - Robert Cialdini:  A Research and Design Survival Guide: The Author of "Don't Make Me Think" recommend. 
 
 ### BookList
 
