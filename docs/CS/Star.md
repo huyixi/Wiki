@@ -35,4 +35,4 @@
 
 ## Others
 - [如何成为一名黑客](https://translations.readthedocs.io/en/latest/hacker_howto.html#id61)
-
+- [Open Source Guides](https://opensource.guide): Open source software is made by people just like you. Learn how to launch and grow your project.
