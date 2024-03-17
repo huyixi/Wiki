@@ -2,9 +2,24 @@
 
 - [阿里、力扣、政采云的 15 位专家分享前端面试与招聘视角](https://tridiamond.tech/post/d71e3dea9caf5fdc0a76ab95e2b29804)
 - [【编程起跑线】14 技术面试感悟](https://wdxtub.com/psl/psl-14/2016/02/14/)
+
 ## Recruitment
 - [谁在招人？- 阮一峰](https://github.com/ruanyf/weekly/issues/4075)
-## 简历
+
+## Resume
+
+### Key Points
+
+- The most important in a resume is **Top Third**. Top third should contain:
+  - If you are a programmer have five experence, what is your difference of other programmers? 
+  - What is your advantage?
+  - Why hire you rather other programmer?
+- You shouldn't give you all experence.
+- The most important in write resume is find advance of myself rather than compare with others.
+
+### Resume Reference
+
+- [Anthony Fu - Software Engineer](https://resume.antfu.me)
 
 ### 简历生成
 
