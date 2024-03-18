@@ -1,4 +1,8 @@
-# 计算机技巧
+# Tip
+
+## Study Tips
+
+- Views hacker's VSCode snippets to identify which code is they use most fluently. It is a practice of "2-8" rule.
 
 ## 如何批量取消 B 站关注和 YouTube 关注
 

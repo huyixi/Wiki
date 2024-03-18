@@ -53,6 +53,7 @@
 - DON'T MAKE ME THINK: 2024-03-14 21:45.
 - The User Experience Team of One: A Research and Design Survival Guide: The Author of "Don't Make Me Think" recommend. Recommened: For **Only** UX person, the Only people of UCD. 
 - Influence - Robert Cialdini:  A Research and Design Survival Guide: The Author of "Don't Make Me Think" recommend. 
+- Hit Refresh: Microsoft CEO Satya -Artifical Intelligence, Mixed Reality, Quantum omputing.
 
 ### BookList
 
