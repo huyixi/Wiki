@@ -1,17 +1,5 @@
+# Movie-Log
 
-## 音乐
-
-- 坂本龙一
-- 莉莉周他说
-- 脆莓
-- VH
-- 《深夜书店》许嵩
-- 陈婧霏
-- The Weeknd
-- 刘森《华北浪革》2024-02-04
-- Lana Del Rey《Born to die》2024-02-04
-
-## 影视
 - No: 2024-02-12
 - "서울의 봄|12.12: The Day": 2024-02-13
 - The Dark Knight: 2024-02-13 下午，看到 56min
@@ -19,3 +7,4 @@
 - 남산의 부장들／南山의 部長들| The Man Standing Next: 2024-02-15 下午
 - "택시운전사/택시運轉士| A Taxi Driver": 2024-02-15 晚上
 - "May 18": 2024-02-16 下午
+- Dune 1: Recommended by fyfyfm. 4 Stars. Haven’t watched many movies lately, so hesitant to give a higher rating.

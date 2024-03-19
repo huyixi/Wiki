@@ -1,4 +1,9 @@
 # Star
+
+## Website
+
+- [W3Schools](https://www.w3schools.com): The largest web developer site on the internet.
+
 ## Resources
 - [MITx Online](https://mitxonline.mit.edu/)
 - [Course - HARVARD UNIVERSITY](https://pll.harvard.edu/catalog)
