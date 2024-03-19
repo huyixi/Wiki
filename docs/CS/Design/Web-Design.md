@@ -122,3 +122,6 @@ https://bakstadconstruction.com/?ref=httpster.net
 https://an-other.com
 
 ![image-20240204115559432](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240204115559432.png)https://mstq.io/
+
+https://davidlaxer.com
+![img-20240319](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/cWqbLX.png)

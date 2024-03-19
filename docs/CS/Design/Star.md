@@ -10,4 +10,6 @@
 - 从公司和部门协作的角度来教授设计系统，而非仅仅局限于设计师自身的角色和任务。
 
 ## Resources
+
 - [Dead Simple Sites](https://deadsimplesites.com/) — 简约风格网站收集
+- [BRUTAL WEB](https://brutalweb.xyz)
