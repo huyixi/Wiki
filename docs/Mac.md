@@ -81,3 +81,9 @@ sudo xattr -r -d com.apple.quarantine /YOUR_PATH/XXX.app
 ```bash
 sudo xattr -r -d com.apple.quarantine /Applications/XXX.app
 ```
+
+## Reference
+
+- [XMac.APP](https://xmac.app)
+- [appstorrent](https://appstorrent.ru)
+- [Yuanyin Mac Software Site](https://maczz.net)
