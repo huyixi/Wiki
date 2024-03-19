@@ -21,6 +21,7 @@
 - [x] 《THE ART OF LEARNING》- Flipped through at McDonald's on 2024-02-22 18:43:23, 0 stars. The book primarily discusses the author's experiences, which were not insightful for me. Read the bilingual version.
 - [x] 《上帝掷骰子吗？》- 3 stars. Recommended by Li Dan in a podcast, providing a general understanding of the history of quantum discoveries and related knowledge history.
 - [x] 《你是你吃出来的》- A nutrition book mentioned in Randy's Reading Paradise.
+- [x] 《你是你吃出来的2》- A nutrition book mentioned in Randy's Reading Paradise.
 - [x] 《李诞脱口秀工作手册》- Completed on 2024-02-29 13:47:37.
 - [x] 《笑场》- Completed on 2024-03-05 21:26:14, 2 stars. Initially thought to be a work-related book by Li Dan, but turned out to be a novel. Resumed and completed upon rediscovering it on Kindle, intrigued by the story of Che Dan.
 - [ ] 《宇宙超度指南》
@@ -31,29 +32,26 @@
 - [ ] 《天真的人类学家》
 - [ ] 《蒂姆库克传》
 - [x] 《Growth: Full Stack Engineer Growth Guide》- Have read.
-- [x] 《The Highly Sensitive Person》- Recommended by Justin.
+- [ ] 《The Highly Sensitive Person》- Recommended by Justin.
 - [x] 《大模型应用开发极简入门：基于 GPT-4和 ChatGPT》- Recommended by 宝玉.
-- [x] 《Superlinear Returns》- Mentioned in "大模型应用开发极简入门".
-- [
-
-x] 《狼书（卷1）：更了不起的 Node.js》- Purchased on 2024-03-08
-
+- [ ] 《Superlinear Returns》- Mentioned in "大模型应用开发极简入门".
+- [ ] 《狼书（卷1）：更了不起的 Node.js》- Purchased on 2024-03-08
 - [ ] 《狼书（卷2）：Node.js Web 应用开发》
-- [ ] 《李光耀观天下》
+- [x] 《李光耀观天下》
 - [ ] 《留学美国》
-- [x] 《moonbit-course》- Recommended by 狼叔.
+- [ ] 《moonbit-course》- Recommended by 狼叔.
 - [ ] 《思考，快与慢》- Recommended by piglei in "入行 15 年，我还是觉得编程很难".
-- [x] 《写给大家看的设计书》- Related to design.
-- [x] 《点石成金》- Related to web user experience.
-- [x] 《鸟哥的Linux私房菜》- Related to Linux systems.
+- [ ] 《写给大家看的设计书》- Related to design.
+- [ ] 《点石成金》- Related to web user experience.
+- [ ] 《鸟哥的Linux私房菜》- Related to Linux systems.
 - [ ] 《人人都是产品经理》
 - [x] 《简约至上：交互式设计四策略》- Completed on 2024-03-09 20:05.
-- [x] 《Elon Musk》- On the bookshelf of Vuejs documentary, mentioned by 尤雨溪.
-- [x] 《Code Complete 2》- Recommended in "暗时间".
+- [ ] 《Elon Musk》- On the bookshelf of Vuejs documentary, mentioned by 尤雨溪.
+- [ ] 《Code Complete 2》- Recommended in "暗时间".
 - [ ] 《Vue.js 设计与实现》
 - [x] DON'T MAKE ME THINK- Completed on 2024-03-14 21:45.
-- [x] The User Experience Team of One: A Research and Design Survival Guide- Recommended by the author of "Don't Make Me Think". Recommended for the only UX person, the only people of UCD.
-- [x] Influence - Robert Cialdini: A Research and Design Survival Guide- Recommended by the author of "Don't Make Me Think".
+- [ ] The User Experience Team of One: A Research and Design Survival Guide- Recommended by the author of "Don't Make Me Think". Recommended for the only UX person, the only people of UCD.
+- [ ] Influence - Robert Cialdini: A Research and Design Survival Guide- Recommended by the author of "Don't Make Me Think".
 - [ ] Hit Refresh: Microsoft CEO Satya -Artificial Intelligence, Mixed Reality, Quantum Computing.
 - [ ] 左耳听风-传奇程序员练级攻略
 - [ ] UNIX编程艺术: ChenHao excessive recommendations.
