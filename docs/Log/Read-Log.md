@@ -53,7 +53,7 @@
 - [ ] The User Experience Team of One: A Research and Design Survival Guide- Recommended by the author of "Don't Make Me Think". Recommended for the only UX person, the only people of UCD.
 - [ ] Influence - Robert Cialdini: A Research and Design Survival Guide- Recommended by the author of "Don't Make Me Think".
 - [ ] Hit Refresh: Microsoft CEO Satya -Artificial Intelligence, Mixed Reality, Quantum Computing.
-- [ ] 左耳听风-传奇程序员练级攻略
+- [x] 左耳听风-传奇程序员练级攻略: 4.6
 - [ ] UNIX编程艺术: ChenHao excessive recommendations.
 - [ ] Effective C++
 - [ ] More Effective C++
