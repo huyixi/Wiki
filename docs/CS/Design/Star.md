@@ -1,5 +1,9 @@
 # Star
 
+## Library
+
+- [GASP](https://gsap.com)
+
 ## Courses
 
 [Figma 官方的“设计系统入门课程”](https://www.youtube.com/watch?v=Dtd40cHQQlk&list=PLXDU_eVOJTx6vqOWJSWH87Zb5-riiG63A&index=2)
