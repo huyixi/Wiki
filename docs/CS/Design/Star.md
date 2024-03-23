@@ -3,6 +3,7 @@
 ## Library
 
 - [GASP](https://gsap.com)
+- [Vercel Template](https://vercel.com/templates)
 
 ## Courses
 
