@@ -57,3 +57,4 @@
 - [ ] UNIX编程艺术: ChenHao excessive recommendations.
 - [ ] Effective C++
 - [ ] More Effective C++
+- [ ] Nonviolent Communication
