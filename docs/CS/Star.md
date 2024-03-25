@@ -36,6 +36,7 @@
 - [Minesweeper-Desktop](https://github.com/cameron-goddard/Minesweeper-Desktop)
 
 ## Airport
+- [WestData](https://fuqing.ch/index.php): The Telegram Group have discount coupon. [link](https://t.me/westdatausr)
 - [One Yuan](https://一元机场.art/#/login)
 
 ## Others
