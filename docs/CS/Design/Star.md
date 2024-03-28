@@ -19,3 +19,4 @@
 - [Dead Simple Sites](https://deadsimplesites.com/) — 简约风格网站收集
 - [BRUTAL WEB](https://brutalweb.xyz)
 - [Drams](https://drams.framer.website):Tw93 - 这个网站有很多超级不错的动效，偏实体按钮类物理效果实现，同时还有可爱音效，很适合想折腾的同学玩玩，可以想想看可以用在哪些有趣的场景。
+- [花瓣](https://huaban.com)
