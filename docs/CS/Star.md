@@ -10,6 +10,7 @@
 - [Stanford Online](https://online.stanford.edu)
 - [CS 自学指南](https://csdiy.wiki)：北大信科 CS 自学指南，包含多个国外顶尖大学课程推荐。
 - [HackWay技术学习路线](https://hackway.org)：国外大学 CS 课程推荐。
+- [HelloGitHub](https://hellogithub.com)
 
 ## Computer
 - [【读薄/厚 CSAPP】](https://wdxtub.com/csapp/thin-csapp-0/2016/04/16/)：小土刀的读厚与读薄《深入理解计算机系统》
