@@ -1,5 +1,7 @@
 # Star
 
+## RoadMap
+- [Developer Roadmaps](https://roadmap.sh): roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings.
 ## Website
 
 - [W3Schools](https://www.w3schools.com): The largest web developer site on the internet.
@@ -43,3 +45,4 @@
 ## Others
 - [如何成为一名黑客](https://translations.readthedocs.io/en/latest/hacker_howto.html#id61)
 - [Open Source Guides](https://opensource.guide): Open source software is made by people just like you. Learn how to launch and grow your project.
+- [Hacker News Daily](http://www.daemonology.net/hn-daily/)

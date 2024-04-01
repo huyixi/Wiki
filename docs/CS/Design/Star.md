@@ -20,3 +20,4 @@
 - [BRUTAL WEB](https://brutalweb.xyz)
 - [Drams](https://drams.framer.website):Tw93 - 这个网站有很多超级不错的动效，偏实体按钮类物理效果实现，同时还有可爱音效，很适合想折腾的同学玩玩，可以想想看可以用在哪些有趣的场景。
 - [花瓣](https://huaban.com)
+- [UI Notes](https://uinotes.com): UI Notes 收集了大量线上优秀 App 的完整 UI 截图，只有落地设计没有飞机稿。你可以在这里探索 UI 设计的最新趋势、浏览竞品的产品设计、快速找到工作中需要的灵感
