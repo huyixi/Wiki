@@ -26,6 +26,26 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
   - [中国人赴日签证Q&A](https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/11_000001_00168.html)
 - [日本国驻广州总领事馆](https://www.guangzhou.cn.emb-japan.go.jp/itprtop_ja/index.html)
 
+签证已下：20240402
+
+## Airport Ticket
+
+- 4.29 去程
+  - 第一程：12:15 XMN 厦门高琦机场 T3 出发，14:00 HKG 香港机场 T1 到达
+  - 第二程：15:10 HKG 香港机场 T1 出发，20:35 NRT 成田机场 T2 到达
+- 5.6 返程
+  - 第一程：10:40 NRT 成田机场 T2 出发，14:40 HKG 香港机场 T1 到达
+  - 第二程：17:45 HKG 香港机场 T1 出发，19:15 XMN 高琦机场 T3 到达
+
+## Plan
+
+### 4.29 Go to Tokio
+
+4.29 去程
+- 第一程：12:15 XMN 厦门高琦机场 T3 出发，14:00 HKG 香港机场 T1 到达
+- 第二程：15:10 HKG 香港机场 T1 出发，20:35 NRT 成田机场 T2 到达
+
+
 ## Travel
 
 - [都道府县官方旅游网站](https://www.cn.emb-japan.go.jp/itpr_zh/aboutjp_traveljp.html)
@@ -33,7 +53,23 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 - [JNTO](https://www.japan-travel.cn): 日本旅游官方指南
    - [行程规划](https://www.japan-travel.cn/plan/)
 
+## Language
+
+- [TOURIST'S LANGUAGE HANDBOOK](https://partners-pamph.jnto.go.jp/simg/pamph/274.pdf): Tourist's basic Japanese language.
+
+## Network
+
+- [Narita Airport - WiFi](https://www.narita-airport.jp/en/service/internet/power-outlet/)
+- Softbank: 持海外手机至日本的游客，可使用日本电信巨头 Softbank 的 Wi-Fi 热点。[Softbank：免费 Wi-Fi 通行证于全国铺设 40 万个热点，为海外游客提供两周的免费 Wi-Fi 联机。只需将您的漫游目的地设置为“SoftBank”并拨打*8180，即可接收密码，启用联机。在餐厅、咖啡馆、主要车站、饭店或其他地点，均可留意是否有可供联网的 Softbank 标识。
+- 付费热点：Docomo 游客专用 Wi-Fi：付费 Wi-Fi 方案和Wi2：Wi-Fi 信息付费提供便捷的上网方式。
+- 漫游 SIM 卡
+
+## Traffic
+
+
 ### Security
+- 日本游客热线：050-3816-2787，海外拨打：+81-50-3816-2787
+![img](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/xqmRqz.png)
 - 110
 - 9110: to find who to contact in a non-emergency.
 - 171: 灾害用专线(171)
