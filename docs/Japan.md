@@ -11,8 +11,10 @@ Japan travel atrategy
 有关此类签证手续，需通过取得了日本国驻华使领馆（请确认各使领馆的管辖地区）送签资格的指定旅行社进行申请。故申请人无法直接去使领馆办理及领取此类签证。
 
 - Rest Day in About Consulate
-- Need of Day: 从签证申请至发放需多少天？
-A． 通过签证申请代理机构申请的，从代理机构将材料送进本馆之日的次日起算，在审查顺利的前提下，最快送发日为，除去周六，日及本馆休馆日后第5个工作日（护照将交还代理机构）。计算审查天数时，请除去我馆的休馆日。
+- Need of Day: 从签证申请至发放需多少天？  
+A． 通过签证申请代理机构申请的，从代理机构将材料送进本馆之日的次日起算，在审查顺利的前提下，最快送发日为，除去周六，日及本馆休馆日后第5个工作日（护照将交还代理机构）。计算审查天数时，请除去我馆的休馆日。  
+[广州大使馆休馆日](https://www.guangzhou.cn.emb-japan.go.jp/itpr_ja/basicinfo.html)
+
 
 
 - [日本大使馆、各总领事馆、领事办公室管辖地区](https://www.cn.emb-japan.go.jp/itpr_zh/aboutus.html#kankatsu)
@@ -24,17 +26,12 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
   - [中国人赴日签证Q&A](https://www.shanghai.cn.emb-japan.go.jp/itpr_ja/11_000001_00168.html)
 - [日本国驻广州总领事馆](https://www.guangzhou.cn.emb-japan.go.jp/itprtop_ja/index.html)
 
-### TaoBao
-
-Some place can register FuJian
-- []()
-
 ## Travel
 
 - [都道府县官方旅游网站](https://www.cn.emb-japan.go.jp/itpr_zh/aboutjp_traveljp.html)
 
-- [](https://www.japan-travel.cn)
-  - [行程规划](https://www.japan-travel.cn/plan/)
+- [JNTO](https://www.japan-travel.cn): 日本旅游官方指南
+   - [行程规划](https://www.japan-travel.cn/plan/)
 
 ### Security
 - 110
