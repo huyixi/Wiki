@@ -12,6 +12,9 @@
 
 ## Software
 
+- [XMac.APP](https://xmac.app)
+- [appstorrent](https://appstorrent.ru)
+- [Yuanyin Mac Software Site](https://maczz.net)
 - [Xclient](https://xclient.info)
 - [Mac 毒](https://www.macdo.cn)
 
@@ -84,6 +87,3 @@ sudo xattr -r -d com.apple.quarantine /Applications/XXX.app
 
 ## Reference
 
-- [XMac.APP](https://xmac.app)
-- [appstorrent](https://appstorrent.ru)
-- [Yuanyin Mac Software Site](https://maczz.net)
