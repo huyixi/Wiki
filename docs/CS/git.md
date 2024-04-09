@@ -17,7 +17,7 @@ chore:    Regular code maintenance
 - Use Clear and Concise Commit Messages
   - A great commit message should be less than **10 words**. 
 
-### Git Branch
+### Gitflow
 
 Any code in the main branch should be deployable.
 Create new descriptively-named branches off the main branch for new work, such as feature/add-new-payment-types.
@@ -31,6 +31,8 @@ Once your work has been merged into the main branch, it should be deployed immed
 ## Git Tools
 - GitButler：Mac 上的 Git 可视化工具，Tw93 推荐。
 - Sourcetree：Git 的 Windows 可视化工具
+- [Gitflow](https://github.com/nvie/gitflow): Git extensions to provide high-level repository operations for Vincent Driessen's branching model.
+  - [Using git-flow to automate your git branching workflow](https://jeffkreeftmeijer.com/git-flow/)
 
 ## Git Origin Code
 ![img](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/TPHDX1.jpg)
