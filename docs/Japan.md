@@ -14,9 +14,6 @@ Japan travel atrategy
 - Need of Day: 从签证申请至发放需多少天？  
 A． 通过签证申请代理机构申请的，从代理机构将材料送进本馆之日的次日起算，在审查顺利的前提下，最快送发日为，除去周六，日及本馆休馆日后第5个工作日（护照将交还代理机构）。计算审查天数时，请除去我馆的休馆日。  
 [广州大使馆休馆日](https://www.guangzhou.cn.emb-japan.go.jp/itpr_ja/basicinfo.html)
-
-
-
 - [日本大使馆、各总领事馆、领事办公室管辖地区](https://www.cn.emb-japan.go.jp/itpr_zh/aboutus.html#kankatsu)
 - [日本驻华大使馆](https://www.cn.emb-japan.go.jp/itprtop_zh/index.html)
   - [介绍日本](https://www.cn.emb-japan.go.jp/itpr_zh/aboutjp.html)
@@ -28,11 +25,27 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 
 签证已下：20240402
 
-## Airport Ticket
+## Preparation
+- 签证：打印
+- 护照：打印
+- 身份证
+- [Visa Japan Web](https://www.vjw.digital.go.jp): [填报教程](http://xhslink.com/IRnjwG)，需提前准备，避免落地后填表
+- 日本手机卡、卡针
+- 黑色水笔-填表用
+- 手机存好酒店名称、地址、电话
+
+## Plan
 
 - 4.29 去程
   - 第一程：12:15 XMN 厦门高琦机场 T3 出发，14:00 HKG 香港机场 T1 到达
   - 第二程：15:10 HKG 香港机场 T1 出发，20:35 NRT 成田机场 T2 到达
+  - 手机网络设置：
+    1. 抵达目的地，插入手机卡，然后重启手机
+    2. 在设置中打开移动数据、数据漫游、3G/4G
+    3. 设置—蜂窝移动网络—蜂窝移动数据网络
+    3. 等待1-3分钟入网，若失败，可联系客服
+
+- 5.2 演出
 - 5.6 返程
   - 第一程：10:40 NRT 成田机场 T2 出发，14:40 HKG 香港机场 T1 到达
   - 第二程：17:45 HKG 香港机场 T1 出发，19:15 XMN 高琦机场 T3 到达

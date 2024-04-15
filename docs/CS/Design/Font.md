@@ -5,3 +5,6 @@
 - 字体管理器：
   - RightFont(macOS)
   - FontBase(Windows)
+
+## Reference
+-  [当你以为自己用的是苹果系统字体](https://sspai.com/post/87960)
