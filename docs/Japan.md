@@ -26,17 +26,36 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 签证已下：20240402
 
 ## Preparation
-- 签证：打印
+- [ ] 签证：打印
 - 护照：打印
 - 身份证
 - [Visa Japan Web](https://www.vjw.digital.go.jp): [填报教程](http://xhslink.com/IRnjwG)，需提前准备，避免落地后填表
 - 日本手机卡、卡针
+- 各种银行卡
 - 黑色水笔-填表用
-- 手机存好酒店名称、地址、电话
+- 手机存好酒店名称、地址、电话照片
+- 充电器（苹果双口35w + 小米65w）、三条数据线、充电宝
+- 隐形眼镜、眼药水
+- 护肤用品：防晒霜、面霜
+- 洗漱用品：牙刷、牙膏、一次性床单
+- 口罩
+
+## Software
+
+- Google Map
+- Klook: 景点门票、交通券
+- [Tabelog](https://s.tabelog.com/cn/): 类大众点评
+
 
 ## Plan
 
-- 4.29 去程
+### 4.28 准备
+  - 值机：提前 24h 值机（APP、或厦门北站）。小红书攻略：上海飞成田 A 可以看到富士山
+  - 入境： Visa Japan Web
+
+### 4.29 去程
+  - 动车：D3333 08:27 到达厦门北，厦门北可换乘机场大巴，4.30 前有免费车票。
+  - 到达机场后，兑换联程机票。
   - 第一程：12:15 XMN 厦门高琦机场 T3 出发，14:00 HKG 香港机场 T1 到达
   - 第二程：15:10 HKG 香港机场 T1 出发，20:35 NRT 成田机场 T2 到达
   - 手机网络设置：
@@ -45,7 +64,19 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
     3. 设置—蜂窝移动网络—蜂窝移动数据网络
     3. 等待1-3分钟入网，若失败，可联系客服
 
+### 4.30 - 5.2 东京周边
+
+- Skytree 晴空塔，17:00 上塔，看日景、日落、夜景
+- 浅草寺
+- 富士山
+  - 能见度查看：[富士見予報](https://fuji-san.info/zh-cn/index.html)、[富士山直播](https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
+
 - 5.2 演出
+  - 演出
+    - 演出地点：tokyo garden theater. [谷歌地图链接](https://www.google.com/maps/place/Tokyo+Garden+Theater/@35.6377592,139.7894448,17z/data=!3m2!4b1!5s0x601889ea40ea922d:0x3257ceb323a9565!4m6!3m5!1s0x601889da3e5d6cbb:0xd5bdadb43d76174b!8m2!3d35.6377592!4d139.7920197!16s%2Fg%2F11fncv1w9m?entry=ttu)
+    - 检票时间：18:00
+    - 演出开始：19:00
+    - 演出票查看：[链接](https://zaiko.io/account/upcoming)。邮箱中有确认邮件
 - 5.6 返程
   - 第一程：10:40 NRT 成田机场 T2 出发，14:40 HKG 香港机场 T1 到达
   - 第二程：17:45 HKG 香港机场 T1 出发，19:15 XMN 高琦机场 T3 到达
@@ -56,6 +87,14 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 - 签证
 - 身份证（中国）
 - 入境卡 vjw 官网填写
+
+## Accommodation
+
+- 新宿、涩谷热闹
+
+## Tips
+
+- 严格按 Google Map 上下车。日本地铁到达点不同
 
 
 ## Plan
@@ -71,7 +110,6 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 ## Travel
 
 - [都道府县官方旅游网站](https://www.cn.emb-japan.go.jp/itpr_zh/aboutjp_traveljp.html)
-
 - [JNTO](https://www.japan-travel.cn): 日本旅游官方指南
    - [行程规划](https://www.japan-travel.cn/plan/)
 
@@ -81,6 +119,11 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 
 ## Network
 
+- 手机卡使用教程：
+    1. 抵达目的地，插入手机卡，然后重启手机
+    2. 在设置中打开移动数据、数据漫游、3G/4G
+    3. 设置—蜂窝移动网络—蜂窝移动数据网络
+    3. 等待1-3分钟入网，若失败，可联系客服
 - [Narita Airport - WiFi](https://www.narita-airport.jp/en/service/internet/power-outlet/)
 - Softbank: 持海外手机至日本的游客，可使用日本电信巨头 Softbank 的 Wi-Fi 热点。[Softbank：免费 Wi-Fi 通行证于全国铺设 40 万个热点，为海外游客提供两周的免费 Wi-Fi 联机。只需将您的漫游目的地设置为“SoftBank”并拨打*8180，即可接收密码，启用联机。在餐厅、咖啡馆、主要车站、饭店或其他地点，均可留意是否有可供联网的 Softbank 标识。
 - 付费热点：Docomo 游客专用 Wi-Fi：付费 Wi-Fi 方案和Wi2：Wi-Fi 信息付费提供便捷的上网方式。
@@ -108,7 +151,7 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 
 ### Weather
 
--[气象厅](https://www.data.jma.go.jp/multi/index.html?lang=cn_zs)
+- [气象厅](https://www.data.jma.go.jp/multi/index.html?lang=cn_zs)
 
 ## Others
 
