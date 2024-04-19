@@ -78,7 +78,11 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 - Skytree 晴空塔，17:00 检票上塔，看日景、日落、夜景
 - 浅草寺
 - 富士山
-  - 能见度查看：[富士見予報](https://fuji-san.info/zh-cn/index.html)、[富士山直播](https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
+  - 能见度查看：[富士見予報](https://fuji-san.info/zh-cn/index.html)
+  - 富士山直播
+    - [Fujisan Watcher](https://www.yamanashi-kankou.jp/fujisanwatcher/sp/cn/live/index.html)
+    - [富士山直播](https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
+  ![i](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/gR2nxu.png)
 - 蔦屋書店 代官山T-SITE
   - Address: 東京都渋谷区猿楽町16-15
     - [Google Map Link](https://maps.app.goo.gl/Y9Y2UnSzj4fK3emq5)
