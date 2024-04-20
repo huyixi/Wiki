@@ -58,3 +58,4 @@
 - [ ] Effective C++
 - [ ] More Effective C++
 - [ ] Nonviolent Communication
+- [x] 有钱人和你想的不一样
