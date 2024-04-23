@@ -91,7 +91,9 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
     7:00~23:00 年中無休（元日を除く）
     書店｜9:00～22:00　スターバックス｜7:00～22:00
 
-- 5.2 演出
+- 5.2 看演出
+  - 行李寄存
+    - 自助空柜查询搜コインロッカーなび；人工寄存点搜ecbocloak；邮寄搜黑猫宅急便。
   - 演出
     - 演出地点：tokyo garden theater. [Google Map Link](https://www.google.com/maps/place/Tokyo+Garden+Theater/@35.6377592,139.7894448,17z/data=!3m2!4b1!5s0x601889ea40ea922d:0x3257ceb323a9565!4m6!3m5!1s0x601889da3e5d6cbb:0xd5bdadb43d76174b!8m2!3d35.6377592!4d139.7920197!16s%2Fg%2F11fncv1w9m?entry=ttu)
     - 检票时间：18:00
