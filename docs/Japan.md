@@ -100,6 +100,13 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
     - 演出开始：19:00
     - 演出票查看：[链接](https://zaiko.io/account/upcoming)。邮箱中有确认邮件
 - 5.6 返程
+  - 提前购买到机场的车票
+![Image 1](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/1.jpg)
+![Image 2](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/2.jpg)
+![Image 3](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/3.jpg)
+![Image 4](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/4.jpg)
+![Image 5](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/5.jpg)
+![Image 6](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/6.jpg)
   - 第一程：10:40 NRT 成田机场 T2 出发，14:40 HKG 香港机场 T1 到达
   - 第二程：17:45 HKG 香港机场 T1 出发，19:15 XMN 高琦机场 T3 到达
 
@@ -185,9 +192,18 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 
 ### Weather
 
+### Map
+![image](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image.png)
+
 
 ## Others
 
 - [外国人との共生社会の実現に向けたロードマップ](https://www.moj.go.jp/isa/support/coexistence/04_00033.html)
 
 - [生活就业指南~谨献给生活在日本的外国人士~中国語版](https://www.moj.go.jp/isa/content/930005833.pdf)
+
+### 大阪环球影城
+- 人数预测
+  - [1](https://usjreal.asumirai.info/monthly/6month-expect.html)
+  - [2](https://usjcapture.com/)
+
