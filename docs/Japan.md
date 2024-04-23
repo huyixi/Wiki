@@ -51,7 +51,7 @@ A． 通过签证申请代理机构申请的，从代理机构将材料送进本
 
 - Google Map
 - Klook: 景点门票、交通券
-- [Tabelog](https://s.tabelog.com/cn/): 类大众点评
+- [Tabelog](https://s.tabelog.com/cn/): 日本大众点评
 - [气象厅](https://www.data.jma.go.jp/multi/index.html?lang=cn_zs): 查看天气
 
 
