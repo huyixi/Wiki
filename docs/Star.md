@@ -48,6 +48,8 @@ e Patchbay - 穷人版 ifttt
 
 - [RePlay](https://replay.cafe)：Justin 的 Newsletter，推荐一些高质量音乐。
 - [commmons schola](https://www.commmons.com/en/schola/)：坂本龙一监制，收录了世界各地的精选音乐。
+- 李志lizhi
+  - [李志歌曲播放器](https://334.kim/)：相对来说歌曲较全的网站
 
 ### Music Rankink
 
