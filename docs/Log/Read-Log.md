@@ -59,3 +59,5 @@
 - [ ] More Effective C++
 - [ ] Nonviolent Communication
 - [x] 有钱人和你想的不一样
+
+后续使用 [NeoDB](https://neodb.social/users/huyixi/) 来管理我的阅读。
