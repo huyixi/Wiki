@@ -180,6 +180,7 @@ Japan Travel 应用为您提供旅游所需的所有信息，让您能够真正�
 
 ## Language
 
+- [TSUNAIRO](https://tsunagarujp.bunka.go.jp)：Learning Japanese in scene.
 - [TOURIST'S LANGUAGE HANDBOOK](https://partners-pamph.jnto.go.jp/simg/pamph/274.pdf): Tourist's basic Japanese language.
 
 ![Image 1](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/IMG_3475.JPG)
@@ -214,12 +215,6 @@ Japan Travel 应用为您提供旅游所需的所有信息，让您能够真正�
 
 ![img](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/313Vdv.png)
 ![i](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/r96Ts6.png)
-
-### Exchange
-
-- [TSUNAIRO](https://tsunagarujp.bunka.go.jp)
-
-### Weather
 
 ### Map
 ![image](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image.png)
