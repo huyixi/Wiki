@@ -8,7 +8,9 @@
     "dev": "vitepress dev",
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "docs:preview": "vitepress preview",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
   },
   "keywords": [],
   "author": "huyixi",
@@ -16,7 +18,8 @@
   "devDependencies": {
     "@types/node": "^20.11.5",
     "vitepress": "1.0.0-rc.45",
-    "vitepress-sidebar": "^1.18.5"
+    "vitepress-sidebar": "^1.18.5",
+    "eslint": "^9.2.0"
   },
   "dependencies": {
     "markdown-it-task-lists": "^2.1.1"
