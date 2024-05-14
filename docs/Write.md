@@ -1,4 +1,7 @@
-# 写作技巧
+# Writing
+
+## General
+
 - [W3C 中文排版需求](https://www.w3.org/TR/clreq/#designing_elements_of_type_area)
 - [document-style-guide](https://github.com/ruanyf/document-style-guide)：阮一峰的中文技术文档的写作规范
 - [文案风格指南：中英混排和标点符号的用法](https://tingtalk.me/style-guide/)
@@ -9,6 +12,10 @@ My Projects
 - [https://bytedance.larkoffice.com/file/UD3hboSdaomdO2xvdfscZcWHnFc](https://bytedance.larkoffice.com/file/UD3hboSdaomdO2xvdfscZcWHnFc)
 - [中文文案排版指北](https://github.com/mzlogin/chinese-copywriting-guidelines)
 
-## 写作技巧
+## Blog
+
+## Paper
+
+## Tools
 
 - [case-police](https://github.com/antfu/case-police)：Antfu 的拼写检查工具
