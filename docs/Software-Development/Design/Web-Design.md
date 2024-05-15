@@ -1,5 +1,7 @@
 - [alexfrisondeisla](https://www.alexfrisondeisla.com)
 
+- https://flareum.io
+
 - [kuldar.](https://kuldar.com/)
 
 - [Stammy](https://paulstamatiou.com)：一个设计师的个人博客。第一次看到的时候是被让我耳目一新的侧边栏设计所吸引，至今（2024年1月5日）我的个人网站还模仿这种设计
