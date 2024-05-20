@@ -1,5 +1,7 @@
 # Read-Log
 
+我现在使用 [NeoDB](https://neodb.social/users/huyixi/) 管理「我的书影音」
+
 - [x] 《我还能看到多少次满月升起》by 坂本龙一 - Completed on 2024-01-11 17:06:08
 - [x] 《音乐即自由》- Completed at home on 2024-01-16 17:02:47
 - [x] 《Owen 的博客》- Finished excluding the "Various Links" section on 2024-01-17 23:11:44

@@ -1,5 +1,7 @@
 # Movie-Log
 
+我现在使用 [NeoDB](https://neodb.social/users/huyixi/) 管理「我的书影音」
+
 - No: 2024-02-12
 - "서울의 봄|12.12: The Day": 2024-02-13
 - The Dark Knight: 2024-02-13 下午，看到 56min
