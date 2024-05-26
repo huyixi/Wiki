@@ -1,7 +1,9 @@
 # Kindle
 
 ## 电子书资源
+
 - [Library Genesis](https://libgen.is)
+
 ## 制作电子书
 
 ### 使用 mdBook 制作电子书
