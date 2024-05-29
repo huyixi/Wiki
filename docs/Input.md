@@ -7,4 +7,5 @@ This third-party website gives you better insight into the Steam platform and ev
 Look through our frequently asked questions to learn more about SteamDB, join our Discord.
 Steam 降价数据库
 
--[吾爱破解](https://www.52pojie.cn/): 应该是中国最好的破解软件论坛
+- [吾爱破解](https://www.52pojie.cn/): 应该是中国最好的破解软件论坛
+- [尝鲜派](https://www.betahub.cn/): 苹果最新系统体验

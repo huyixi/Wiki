@@ -110,6 +110,16 @@ ascii_composer:
     Shift_R: commit_code
 ```
 
+### 用户设定文件夹下的文件内容
+文件名文件内容rime.lua快捷输入当前时间punctuation.yaml定义输入符号luna_pinyin.extended.dict.yaml明月拼音扩充词库
+custom_phrase.txt 用户自行设置快捷输入 default.yaml 保存系统的默认设置，如果需要修改设置可以新建一个 default.custom.yaml 修改系统的默认配置 default.custom.yaml 用户设置的保存系统配置的文件
+系统默认拼音
+名称方案名-schema_id描述luna_pinyinluna_pinyin_simp朙月拼音·語句流luna_pinyin_fluency朙月拼音·臺灣正體luna_pinyin_tw自然碼雙拼double_pinyinbopomofobopomofo_tw仓孑cangjie5五笔stroke地球拼音terra_pinyin大写数字numbers12345 -> 一二三四五
+
+### 更改某个应用程序的默认输入方案
+1. 查找该应用的 Bundle Identifier 访达->找到应用程序->右键->显示包内容->使用内容编辑器打开->打开info.plist文档->搜索CFBundleIdentifier->该字符串下方的字符串即为该应用程序的 Bundle Identifier
+2. 打开 squirrel.custom.yaml 修改 `patch: app_options/com.alfredapp.Alfred: ascii_mode: true` # 打开英文输入
+
 ### 资源
 
 [仿 Mac 皮肤](https://github.com/NavisLab/rime-pifu)
