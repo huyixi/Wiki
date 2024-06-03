@@ -7,6 +7,16 @@
 - [一元机场](https://一元机场.ink): 便宜，偶尔使用
 
 - [性价比机场测速](https://duangks.com/)
+- 中国国际机场
+  sr.12306.me.uk
+
+sr.12306.co.uk
+
+防失联域名（建议保存）: wget.moe
+
+Telegram频道: https://t.me/CIv2bchannel
+
+Telegram群组: https://t.me/CIv2bchat
 
 ## Sim 卡
 
