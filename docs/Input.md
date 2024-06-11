@@ -14,3 +14,4 @@ Steam 降价数据库
 - [The Linux Kernel](https://tldp.org)：Linux 内核工作原理
 - [remove-bg](https://www.remove.bg/zh)：免费的背景消除网站
 - [Every Default macOS Wallpaper – in Glorious 6K Resolution](https://512pixels.net/projects/default-mac-wallpapers-in-5k/): 苹果默认壁纸下载
+- [SaveTwitter](https://savetwitter.net/en): Twitter Video Download
