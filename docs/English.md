@@ -36,3 +36,7 @@ Youtube 优秀老师
 	◦	Emma
 	•	Tarle Speech & Language Services 很多单词发音对比视频。
 	•	SPEAK ENGLISH with SOZO-X 的也不错，发音注重口型，最后有小 quiz。
+
+### Comparison of CEF levels and scores for the various exams
+
+![image-20240716111259157](https://raw.githubusercontent.com/huyixi/Pics/main/uPic/image-20240716111259157.png)
